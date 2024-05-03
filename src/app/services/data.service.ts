@@ -13,7 +13,7 @@ export class DataService {
 
   // Function to fetch and parse XML data
   parseXmlData(): Observable<any> {
-    const apiUrl = 'https://stats-sdmx-disseminate.pacificdata.org/rest/data/SPC,DF_GWG,1.0/A......_T?startPeriod=2012&endPeriod=2021&dimensionAtObservation=AllDimensions';
+    const apiUrl = 'https://stats-sdmx-disseminate.pacificdata.org/rest/data/SPC,DF_GWG,1.0/A.VU+TO+TV+SB+WS+PW+FM+MH.._T.._T.U+T+S+R+P+Q+O+N+M+L+K+J+I+H+G+F+E+D+C+B+A?startPeriod=2012&endPeriod=2021&dimensionAtObservation=AllDimensions';
     return this.http.get(apiUrl, { responseType: 'text' }).pipe(
       map(xmlData => {
         let jsonData: any;

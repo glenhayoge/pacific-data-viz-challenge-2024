@@ -1,4 +1,4 @@
-import { Component, ViewChild } from '@angular/core';
+import { Component, ViewChild} from '@angular/core';
 import {
   ChartComponent,
   ApexAxisChartSeries,
@@ -24,6 +24,7 @@ export class DashboardComponent {
   public chartOptions: Partial<ChartOptions> | any;
 
   constructor() {
+    
     this.chartOptions = {
       series: [
         {
@@ -43,4 +44,8 @@ export class DashboardComponent {
       }
     };
   }
+
+
 }
+
+
