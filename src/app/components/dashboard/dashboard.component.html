@@ -1,6 +1,8 @@
 <section class="flex justify-center items-center mx-auto">
-<div class="max-w-4xl w-full bg-white mt-8 rounded-lg shadow dark:bg-gray-800 p-4 md:p-6">
-    <div class="flex justify-between pb-4 mb-4 border-b border-gray-200 dark:border-gray-700">
+
+<div class="max-w-5xl w-full bg-white my-8 rounded-lg shadow dark:bg-gray-800 p-4 md:p-6">
+    <h1 class="py-8 text-cyan-600 text-left tracking-wide font-bold text-xl md:text-xl lg:text-3xl">A comparative analysis of Gender Wage Gap between countries, urbanization levels & disability status. </h1>
+    <!-- <div class="flex justify-between pb-4 mb-4 border-b border-gray-200 dark:border-gray-700">
       <div class="flex items-center">
         <div class="w-12 h-12 rounded-lg bg-gray-100 dark:bg-gray-700 flex items-center justify-center me-3">
           <svg class="w-6 h-6 text-gray-500 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 19">
@@ -21,9 +23,9 @@
           42.5%
         </span>
       </div>
-    </div>
+    </div> -->
   
-    <div class="grid grid-cols-2">
+    <!-- <div class="grid grid-cols-2">
       <dl class="flex items-center">
           <dt class="text-gray-500 dark:text-gray-400 text-sm font-normal me-1">Money spent:</dt>
           <dd class="text-gray-900 text-sm dark:text-white font-semibold">$3,232</dd>
@@ -32,7 +34,7 @@
           <dt class="text-gray-500 dark:text-gray-400 text-sm font-normal me-1">Conversion rate:</dt>
           <dd class="text-gray-900 text-sm dark:text-white font-semibold">1.2%</dd>
       </dl>
-    </div>
+    </div> -->
   
     <apx-chart #chart style="width: 100%; color: white"
     [series]="chartOptions.series"
@@ -87,7 +89,7 @@
       </div>
   </div>
 </section>
-<div style="text-align:center">
+<!-- <div style="text-align:center">
     <h2>
         Countries
     </h2>
@@ -96,15 +98,84 @@
           <h3>{{item.country}}</h3>
        </li>
     </ul>
-</div>
-<!-- <section class="flex justify-center items-center mx-auto">
-    <div class="w-full max-w-4xl py-8">
-<apx-chart #chart style="width: 100%; color: white"
-                   [series]="chartOptions.series"
-                   [chart]="chartOptions.chart"
-                   [xaxis]="chartOptions.xaxis"
-                   [title]="chartOptions.title"
-                   [theme]="chartOptions.theme"
-        ></apx-chart>
+</div> -->
+<!-- <footer class="text-center p-8 bg-gray-100 text-sm">
+    <p class="">This visualisation is an entry to the Pacific Data Visualisation Competition 2024 </p>
+</footer> -->
+<section >
+    <!-- <p class="flex flex-wrap dark:text-gray-600 text-gray-400  justify-center mb-4 mt-10">
+      You've Reached the Bottom of the Page 👋
+    </p> -->
+
+    <div class=" px-2 py-12 mx-auto space-y-8 overflow-hidden sm:px-2 lg:px-4 border-t dark:border-gray-700 border-gray-200 ">
+      <!-- <div class="flex justify-center mt-8 space-x-6">
+        <a href="#" class="text-gray-400 hover:text-gray-500">
+          <span class="sr-only">GlenGH Logo</span>
+          <svg
+            class="w-16 h-16  border-2 bg-gray-400 dark:bg-yellow-400 border-gray-500 rounded-full dark:border-yellow-400 hover:bg-gray-900"
+            fill="currentColor"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 233.08 233.08"
+          >
+            <circle cx="116.54" cy="116.54" r="116.54" fill="currentColor" class="text-gray-200 dark:text-black bg-gray-400 dark:bg-yellow-400" />
+
+            <polygon
+              points="122.1 27.11 200.36 66.64 186.08 72.49 121.24 38.08 54.66 61.05 104.12 93.08 135.66 81.07 114.2 67.8 128.14 63.09 159.93 82.29 101.63 106.97 29.54 58.97 122.1 27.11"
+              fill="currentColor"
+              stroke="currentColor"
+              class="text-black dark:text-yellow-400"
+
+              strokeMiterlimit="10"
+              strokeWidth="3"
+            />
+            <polygon
+              points="90.04 122.38 93.71 210 82.13 200.93 79.62 127.81 32.4 94.96 35.3 150.93 54.16 164.88 52.54 141.06 61.02 146.75 63.3 187.37 27.32 159.2 23.42 78 90.04 122.38"
+              fill="currentColor"
+              stroke="currentColor"
+              class="text-black dark:text-yellow-400"
+              strokeMiterlimit="10"
+              strokeWidth="3"
+            />
+            <polygon
+              points="111.3 121.58 127.32 115.29 129.09 150.6 192.87 126.54 191.66 90.03 205.84 84.46 207.34 172.15 195.43 178.38 194.21 141.87 129.87 167.13 131.69 203.09 115.85 210 111.3 121.58"
+              fill="currentColor"
+              stroke="currentColor"
+              class="text-black dark:text-yellow-400"
+              strokeMiterlimit="10"
+              strokeWidth="3"
+            />
+          </svg>
+        </a>
+      </div> -->
+      <p class="flex flex-wrap text-center dark:text-gray-600 text-gray-400 justify-center text-xs mb-4 mt-10">
+        &copy; This visualisation is an entry by GlenH for the 2024 Pacific Data Visualisation Competition.
+      </p>
+
+      <div class="flex justify-center mt-8 space-x-6">
+        <a
+        href="https://github.com/glenhayoge/glenh-me" target="_blank"
+          class="text-gray-500 hover:text-gray-700"
+        >
+          <span class="sr-only">GitHub</span>
+          
+          <span class="text-center  flex outline outline-gray-100 p-2 rounded"> 
+            <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="currentColor"
+            class="bi bi-github w-5 h-5 mr-2"
+            viewBox="0 0 16 16"
+          >
+            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
+          </svg>
+            <p class="mr-2 text-sm"> View Source Code</p>
+            <span class="text-gray-500">
+                <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.5"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-arrow-up-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M17 7l-10 10" /><path d="M8 7l9 0l0 9" /></svg>
+            </span>
+        </span>
+        </a>
+      </div>
+      <!-- <div class="text-center text-xs dark:text-gray-600 text-gray-400  ">
+        &copy; GlenH.me Contents from 2018 - 2024. <a href="https://github.com/glenhayoge/glenh-me" target="_blank">Open Source</a>
+      </div> -->
     </div>
-    </section> -->
+  </section>
