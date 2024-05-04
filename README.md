@@ -1,27 +1,55 @@
-# Pacdataviz
+# Pacific DataViz Challenge Visualisation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
+## Overview
 
-## Development server
+The Pacific DataViz Challenge app is a data visualization dashboard specifically designed to explore and analyze the Gender Wage Gap dataset. This interactive tool is built using Angular, TypeScript, Tailwind CSS, and ApexCharts library to provide users with a visually appealing and insightful way to understand the data.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
 
-## Code scaffolding
+- Interactive Dashboard: Explore the Gender Wage Gap dataset through an intuitive and user-friendly dashboard interface.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Visualizations: Utilize ApexCharts library to create dynamic and informative visual representations of the data.
 
-## Build
+- Data Source: The dataset used in this app is sourced from the Pacific Data Hub website, ensuring reliability and accuracy.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Technologies Used
 
-## Running unit tests
+- Angular: A popular web application framework for building dynamic single-page applications.
+- TypeScript: A statically typed superset of JavaScript that compiles to plain JavaScript.
+- Tailwind CSS: A utility-first CSS framework for quickly building custom user interfaces.
+- ApexCharts: A modern JavaScript charting library that offers a wide range of interactive charts and graphs.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Getting Started
 
-## Running end-to-end tests
+- Clone the repository to your local machine.
+- Navigate to the project directory.
+- Install dependencies using npm or yarn.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+`npm install`
 
-## Further help
+or
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+`yarn install`
+
+- Start the development server and open in browser.
+
+`ng s -o`
+
+or
+
+`yarn start`
+
+- Open your web browser and navigate to http://localhost:4200 to view the app.
+
+## Credits
+
+Developed by Glen Hayoge.
+Dataset sourced from the Pacific Data Hub website.
+
+## License
+
+This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+
+## Feedback
+
+We welcome any feedback or suggestions for improving the app. Feel free to open an issue or submit a pull request.
