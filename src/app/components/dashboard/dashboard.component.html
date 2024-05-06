@@ -1,7 +1,6 @@
 <section class="flex justify-center items-center mx-auto">
-
 <div class="max-w-5xl w-full bg-white my-8 rounded-lg shadow dark:bg-gray-800 p-4 md:p-6">
-    <h1 class="py-8 text-cyan-600 text-left tracking-wide font-bold text-xl md:text-xl lg:text-3xl">A comparative analysis of Gender Wage Gap between countries, urbanization levels & disability status. </h1>
+    <h1 class="py-8 text-cyan-600 text-left tracking-wide font-bold text-4xl md:text-2xl lg:text-3xl">A comparative analysis of Gender Wage Gap between countries, urbanization levels & disability status. </h1>
     <!-- <div class="flex justify-between pb-4 mb-4 border-b border-gray-200 dark:border-gray-700">
       <div class="flex items-center">
         <div class="w-12 h-12 rounded-lg bg-gray-100 dark:bg-gray-700 flex items-center justify-center me-3">
@@ -35,14 +34,28 @@
           <dd class="text-gray-900 text-sm dark:text-white font-semibold">1.2%</dd>
       </dl>
     </div> -->
-  
-    <apx-chart #chart style="width: 100%; color: white"
+    <div id="chart" #chart>
+        <apx-chart
+          [series]="chartOptions.series"
+          [chart]="chartOptions.chart"
+          [xaxis]="chartOptions.xaxis"
+          [stroke]="chartOptions.stroke"
+          [colors]="chartOptions.colors"
+          [dataLabels]="chartOptions.dataLabels"
+          [legend]="chartOptions.legend"
+          [markers]="chartOptions.markers"
+          [grid]="chartOptions.grid"
+          [yaxis]="chartOptions.yaxis"
+          [title]="chartOptions.title"
+        ></apx-chart>
+      </div>
+    <!-- <apx-chart #chart style="width: 100%; color: white"
     [series]="chartOptions.series"
     [chart]="chartOptions.chart"
     [xaxis]="chartOptions.xaxis"
     [title]="chartOptions.title"
     [theme]="chartOptions.theme"
-></apx-chart>
+></apx-chart> -->
       <div class="grid grid-cols-1 items-center border-gray-200 border-t dark:border-gray-700 justify-between">
         <div class="flex justify-between items-center pt-5">
           <!-- Button -->
@@ -116,7 +129,7 @@
         </a>
       </div>
       <p class="flex flex-wrap text-center dark:text-gray-600 text-gray-400 justify-center text-xs mb-4 mt-10">
-        &copy; This visualisation is an entry by <a class="hover:underline"href="https://glensea.com" target="_blank">&nbsp;Glen Hayoge&nbsp;</a> for the 2024 Pacific Data Visualisation Competition
+        &copy; An entry by <a class="hover:underline"href="https://glensea.com" target="_blank">&nbsp;Glen Hayoge&nbsp;</a> for the 2024 Pacific Data Visualisation Challenge
       </p>
 
       <div class="flex justify-center mt-8 space-x-6">
