@@ -1,0 +1,3624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="svg82716" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 720">
+  <defs>
+    <style>
+      .awd, .awe, .awf, .awg {
+        fill: none;
+      }
+
+      .awh {
+        letter-spacing: 0em;
+      }
+
+      .awi, .awj {
+        fill: #fff;
+      }
+
+      .awk {
+        fill: #69cfe0;
+      }
+
+      .awe, .awl, .awg, .awm {
+        stroke: #fff;
+      }
+
+      .awe, .awl, .awm {
+        stroke-miterlimit: 14.53;
+      }
+
+      .awn {
+        letter-spacing: -.1em;
+      }
+
+      .awl, .awm {
+        fill: #f70606;
+      }
+
+      .awo {
+        letter-spacing: -.03em;
+      }
+
+      .awf {
+        stroke: #357db0;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .5px;
+      }
+
+      .awg {
+        stroke-miterlimit: 10;
+      }
+
+      .awp {
+        letter-spacing: -.02em;
+      }
+
+      .awq {
+        clip-path: url(#aiw);
+      }
+
+      .awr {
+        clip-path: url(#aik);
+      }
+
+      .aws {
+        clip-path: url(#aiq);
+      }
+
+      .awt {
+        clip-path: url(#aie);
+      }
+
+      .awu {
+        clip-path: url(#aky);
+      }
+
+      .awv {
+        clip-path: url(#akg);
+      }
+
+      .aww {
+        clip-path: url(#aks);
+      }
+
+      .awx {
+        clip-path: url(#akm);
+      }
+
+      .awy {
+        clip-path: url(#aka);
+      }
+
+      .awz {
+        clip-path: url(#aqe);
+      }
+
+      .axa {
+        clip-path: url(#aqm);
+      }
+
+      .axb {
+        clip-path: url(#ale);
+      }
+
+      .axc {
+        clip-path: url(#alq);
+      }
+
+      .axd {
+        clip-path: url(#alk);
+      }
+
+      .axe {
+        clip-path: url(#aeg);
+      }
+
+      .axf {
+        clip-path: url(#ahg);
+      }
+
+      .axg {
+        clip-path: url(#aea);
+      }
+
+      .axh {
+        clip-path: url(#aha);
+      }
+
+      .axi {
+        clip-path: url(#ahy);
+      }
+
+      .axj {
+        clip-path: url(#ado);
+      }
+
+      .axk {
+        clip-path: url(#adu);
+      }
+
+      .axl {
+        clip-path: url(#adi);
+      }
+
+      .axm {
+        clip-path: url(#anf);
+      }
+
+      .axn {
+        clip-path: url(#acq);
+      }
+
+      .axo {
+        clip-path: url(#amz);
+      }
+
+      .axp {
+        clip-path: url(#ack);
+      }
+
+      .axq {
+        clip-path: url(#acw);
+      }
+
+      .axr {
+        clip-path: url(#ace);
+      }
+
+      .axs {
+        clip-path: url(#aes);
+      }
+
+      .axt {
+        clip-path: url(#aem);
+      }
+
+      .axu {
+        clip-path: url(#apy);
+      }
+
+      .axv {
+        clip-path: url(#apm);
+      }
+
+      .axw {
+        clip-path: url(#ajc);
+      }
+
+      .axx {
+        clip-path: url(#aps);
+      }
+
+      .axy {
+        clip-path: url(#adc);
+      }
+
+      .axz {
+        clip-path: url(#aai);
+      }
+
+      .aya {
+        clip-path: url(#aac);
+      }
+
+      .ayb {
+        clip-path: url(#aau);
+      }
+
+      .ayc {
+        clip-path: url(#aao);
+      }
+
+      .ayd {
+        clip-path: url(#aji);
+      }
+
+      .aye {
+        clip-path: url(#anr);
+      }
+
+      .ayf {
+        clip-path: url(#anx);
+      }
+
+      .ayg {
+        clip-path: url(#anl);
+      }
+
+      .ayh {
+        clip-path: url(#aod);
+      }
+
+      .ayi {
+        clip-path: url(#aoj);
+      }
+
+      .ayj {
+        clip-path: url(#aop);
+      }
+
+      .ayk {
+        clip-path: url(#aou);
+      }
+
+      .ayl {
+        clip-path: url(#abm);
+      }
+
+      .aym {
+        clip-path: url(#ago);
+      }
+
+      .ayn {
+        clip-path: url(#afe);
+      }
+
+      .ayo {
+        clip-path: url(#amt);
+      }
+
+      .ayp {
+        clip-path: url(#amn);
+      }
+
+      .ayq {
+        clip-path: url(#agi);
+      }
+
+      .ayr {
+        clip-path: url(#ajo);
+      }
+
+      .ays {
+        clip-path: url(#aju);
+      }
+
+      .ayt {
+        clip-path: url(#aey);
+      }
+
+      .ayu {
+        clip-path: url(#amb);
+      }
+
+      .ayv {
+        clip-path: url(#amh);
+      }
+
+      .ayw {
+        clip-path: url(#abs);
+      }
+
+      .ayx {
+        clip-path: url(#abg);
+      }
+
+      .ayy {
+        clip-path: url(#ahm);
+      }
+
+      .ayz {
+        clip-path: url(#ahs);
+      }
+
+      .aza {
+        clip-path: url(#aby);
+      }
+
+      .azb {
+        clip-path: url(#agc);
+      }
+
+      .azc {
+        clip-path: url(#afw);
+      }
+
+      .azd {
+        clip-path: url(#afq);
+      }
+
+      .aze {
+        clip-path: url(#afk);
+      }
+
+      .azf {
+        clip-path: url(#apa);
+      }
+
+      .azg {
+        clip-path: url(#apg);
+      }
+
+      .azh {
+        clip-path: url(#aba);
+      }
+
+      .azi {
+        clip-path: url(#agu);
+      }
+
+      .azj {
+        clip-path: url(#o);
+      }
+
+      .azk {
+        clip-path: url(#j);
+      }
+
+      .azl {
+        clip-path: url(#e);
+      }
+
+      .azm {
+        clip-path: url(#t);
+      }
+
+      .azn {
+        clip-path: url(#y);
+      }
+
+      .azo {
+        clip-path: url(#hq);
+      }
+
+      .azp {
+        clip-path: url(#hw);
+      }
+
+      .azq {
+        clip-path: url(#hk);
+      }
+
+      .azr {
+        clip-path: url(#io);
+      }
+
+      .azs {
+        clip-path: url(#fi);
+      }
+
+      .azt {
+        clip-path: url(#ic);
+      }
+
+      .azu {
+        clip-path: url(#ii);
+      }
+
+      .azv {
+        clip-path: url(#ne);
+      }
+
+      .azw {
+        clip-path: url(#nk);
+      }
+
+      .azx {
+        clip-path: url(#tw);
+      }
+
+      .azy {
+        clip-path: url(#tq);
+      }
+
+      .azz {
+        clip-path: url(#he);
+      }
+
+      .baa {
+        clip-path: url(#ew);
+      }
+
+      .bab {
+        clip-path: url(#fc);
+      }
+
+      .bac {
+        clip-path: url(#fu);
+      }
+
+      .bad {
+        clip-path: url(#jg);
+      }
+
+      .bae {
+        clip-path: url(#ja);
+      }
+
+      .baf {
+        clip-path: url(#iu);
+      }
+
+      .bag {
+        clip-path: url(#gs);
+      }
+
+      .bah {
+        clip-path: url(#gm);
+      }
+
+      .bai {
+        clip-path: url(#gy);
+      }
+
+      .baj {
+        clip-path: url(#gg);
+      }
+
+      .bak {
+        clip-path: url(#fo);
+      }
+
+      .bal {
+        clip-path: url(#ga);
+      }
+
+      .bam {
+        clip-path: url(#py);
+      }
+
+      .ban {
+        clip-path: url(#pm);
+      }
+
+      .bao {
+        clip-path: url(#oi);
+      }
+
+      .bap {
+        clip-path: url(#qw);
+      }
+
+      .baq {
+        clip-path: url(#ps);
+      }
+
+      .bar {
+        clip-path: url(#pa);
+      }
+
+      .bas {
+        clip-path: url(#ms);
+      }
+
+      .bat {
+        clip-path: url(#my);
+      }
+
+      .bau {
+        clip-path: url(#mg);
+      }
+
+      .bav {
+        clip-path: url(#ma);
+      }
+
+      .baw {
+        clip-path: url(#nq);
+      }
+
+      .bax {
+        clip-path: url(#nw);
+      }
+
+      .bay {
+        clip-path: url(#pg);
+      }
+
+      .baz {
+        clip-path: url(#ri);
+      }
+
+      .bba {
+        clip-path: url(#rc);
+      }
+
+      .bbb {
+        clip-path: url(#qq);
+      }
+
+      .bbc {
+        clip-path: url(#oo);
+      }
+
+      .bbd {
+        clip-path: url(#oc);
+      }
+
+      .bbe {
+        clip-path: url(#mm);
+      }
+
+      .bbf {
+        clip-path: url(#ou);
+      }
+
+      .bbg {
+        clip-path: url(#lc);
+      }
+
+      .bbh {
+        clip-path: url(#kq);
+      }
+
+      .bbi {
+        clip-path: url(#jy);
+      }
+
+      .bbj {
+        clip-path: url(#jm);
+      }
+
+      .bbk {
+        clip-path: url(#kw);
+      }
+
+      .bbl {
+        clip-path: url(#js);
+      }
+
+      .bbm {
+        clip-path: url(#kk);
+      }
+
+      .bbn {
+        clip-path: url(#ke);
+      }
+
+      .bbo {
+        clip-path: url(#te);
+      }
+
+      .bbp {
+        clip-path: url(#tk);
+      }
+
+      .bbq {
+        clip-path: url(#sm);
+      }
+
+      .bbr {
+        clip-path: url(#ru);
+      }
+
+      .bbs {
+        clip-path: url(#ro);
+      }
+
+      .bbt {
+        clip-path: url(#eq);
+      }
+
+      .bbu {
+        clip-path: url(#ek);
+      }
+
+      .bbv {
+        clip-path: url(#ee);
+      }
+
+      .bbw {
+        clip-path: url(#ss);
+      }
+
+      .bbx {
+        clip-path: url(#sy);
+      }
+
+      .bby {
+        clip-path: url(#qk);
+      }
+
+      .bbz {
+        clip-path: url(#qe);
+      }
+
+      .bca {
+        clip-path: url(#sg);
+      }
+
+      .bcb {
+        clip-path: url(#sa);
+      }
+
+      .bcc {
+        clip-path: url(#lu);
+      }
+
+      .bcd {
+        clip-path: url(#li);
+      }
+
+      .bce {
+        clip-path: url(#lo);
+      }
+
+      .bcf {
+        clip-path: url(#vg);
+      }
+
+      .bcg {
+        clip-path: url(#uc);
+      }
+
+      .bch {
+        clip-path: url(#uo);
+      }
+
+      .bci {
+        clip-path: url(#uu);
+      }
+
+      .bcj {
+        clip-path: url(#yg);
+      }
+
+      .bck {
+        clip-path: url(#wk);
+      }
+
+      .bcl {
+        clip-path: url(#wq);
+      }
+
+      .bcm {
+        clip-path: url(#va);
+      }
+
+      .bcn {
+        clip-path: url(#vm);
+      }
+
+      .bco {
+        clip-path: url(#vy);
+      }
+
+      .bcp {
+        clip-path: url(#vs);
+      }
+
+      .bcq {
+        clip-path: url(#xi);
+      }
+
+      .bcr {
+        clip-path: url(#zk);
+      }
+
+      .bcs {
+        clip-path: url(#ys);
+      }
+
+      .bct {
+        clip-path: url(#zq);
+      }
+
+      .bcu {
+        clip-path: url(#yy);
+      }
+
+      .bcv {
+        clip-path: url(#ya);
+      }
+
+      .bcw {
+        clip-path: url(#ui);
+      }
+
+      .bcx {
+        clip-path: url(#ww);
+      }
+
+      .bcy {
+        clip-path: url(#we);
+      }
+
+      .bcz {
+        clip-path: url(#xo);
+      }
+
+      .bda {
+        clip-path: url(#zw);
+      }
+
+      .bdb {
+        clip-path: url(#xu);
+      }
+
+      .bdc {
+        clip-path: url(#xc);
+      }
+
+      .bdd {
+        clip-path: url(#ym);
+      }
+
+      .bde {
+        clip-path: url(#ze);
+      }
+
+      .bdf {
+        clip-path: url(#ax);
+      }
+
+      .bdg {
+        clip-path: url(#as);
+      }
+
+      .bdh {
+        clip-path: url(#an);
+      }
+
+      .bdi {
+        clip-path: url(#ai);
+      }
+
+      .bdj {
+        clip-path: url(#ad);
+      }
+
+      .bdk {
+        clip-path: url(#dg);
+      }
+
+      .bdl {
+        clip-path: url(#dy);
+      }
+
+      .bdm {
+        clip-path: url(#dm);
+      }
+
+      .bdn {
+        clip-path: url(#ds);
+      }
+
+      .bdo {
+        clip-path: url(#da);
+      }
+
+      .bdp {
+        clip-path: url(#bh);
+      }
+
+      .bdq {
+        clip-path: url(#bm);
+      }
+
+      .bdr {
+        clip-path: url(#cu);
+      }
+
+      .bds {
+        clip-path: url(#cb);
+      }
+
+      .bdt {
+        clip-path: url(#cg);
+      }
+
+      .bdu {
+        clip-path: url(#cn);
+      }
+
+      .bdv {
+        clip-path: url(#br);
+      }
+
+      .bdw {
+        clip-path: url(#bw);
+      }
+
+      .bdx {
+        clip-path: url(#bc);
+      }
+
+      .awm {
+        stroke-width: 2px;
+      }
+
+      .awj {
+        font-family: Roboto-Bold, Roboto;
+        font-size: 18.7px;
+        font-weight: 700;
+      }
+
+      .bdy {
+        fill: #3b959e;
+        opacity: .6;
+      }
+    </style>
+    <clipPath id="e">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="j">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="o">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="t">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="y">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ad">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ai">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="an">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="as">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ax">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="bc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="bh">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="bm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="br">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="bw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="cb">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="cg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="cn">
+      <rect class="awd" x="-42.24" y="-8.81" width="1254.65" height="883.81"/>
+    </clipPath>
+    <clipPath id="cu">
+      <rect class="awd" x="-42.24" y="-8.81" width="1254.65" height="883.81"/>
+    </clipPath>
+    <clipPath id="da">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="dg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="dm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ds">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="dy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ee">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ek">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="eq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ew">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="fc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="fi">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="fo">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="fu">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ga">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="gg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="gm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="gs">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="gy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="he">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="hk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="hq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="hw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ic">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ii">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="io">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="iu">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ja">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="jg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="jm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="js">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="jy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ke">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="kk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="kq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="kw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="lc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="li">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="lo">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="lu">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ma">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="mg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="mm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ms">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="my">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ne">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="nk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="nq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="nw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="oc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="oi">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="oo">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ou">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="pa">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="pg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="pm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ps">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="py">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="qe">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="qk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="qq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="qw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="rc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ri">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ro">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ru">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="sa">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="sg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="sm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ss">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="sy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="te">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="tk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="tq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="tw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="uc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ui">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="uo">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="uu">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="va">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="vg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="vm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="vs">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="vy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="we">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="wk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="wq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ww">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="xc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="xi">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="xo">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="xu">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ya">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="yg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ym">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ys">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="yy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ze">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="zk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="zq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="zw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aac">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aai">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aao">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aau">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aba">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="abg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="abm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="abs">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aby">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ace">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ack">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="acq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="acw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="adc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="adi">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ado">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="adu">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aea">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aeg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aem">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aes">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aey">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="afe">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="afk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="afq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="afw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="agc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="agi">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ago">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="agu">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aha">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ahg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ahm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ahs">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ahy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aie">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aik">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aiq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aiw">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ajc">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aji">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ajo">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aju">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aka">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="akg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="akm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aks">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aky">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="ale">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="alk">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="alq">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="amb">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="amh">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="amn">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="amt">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="amz">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="anf">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="anl">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="anr">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="anx">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aod">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aoj">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aop">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aou">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="apa">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="apg">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="apm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aps">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="apy">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aqe">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+    <clipPath id="aqm">
+      <rect class="awd" x="-227.84" y="-66.48" width="1356.27" height="939.85"/>
+    </clipPath>
+  </defs>
+  <rect class="awk" x="-119.17" y="-66.48" width="1236.7" height="839.17"/>
+  <g id="d" data-name="g83154">
+    <g class="azl">
+      <g id="f" data-name="g83156">
+        <g id="g" data-name="g83162">
+          <path id="h" data-name="path83164" class="awi" d="M463.31,431.16l-.53,1.39,1.76,1.74,5.29-1.74h1.76l-.88-.52,4.41-4.69-8.82,2.61-1.76,1.74-1.23-.52Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="i" data-name="g83168">
+    <g class="azk">
+      <g id="k" data-name="g83170">
+        <g id="l" data-name="g83176">
+          <path id="m" data-name="path83178" class="awi" d="M464.55,443.32l-.88-3.82-3.53-2.61-3.53,.87-3,1.74-.88,2.95,.35,1.39,4.06,.87,7.41-1.39Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="n" data-name="g83182">
+    <g class="azj">
+      <g id="p" data-name="g83184">
+        <g id="q" data-name="g83190">
+          <path id="r" data-name="path83192" class="awi" d="M537.57,405.1l-3.17,.52,1.41,1.21,3,.87v-2.08l-1.23-.52Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="s" data-name="g83224">
+    <g class="azm">
+      <g id="u" data-name="g83226">
+        <g id="v" data-name="g83232">
+          <path id="w" data-name="path83234" class="awi" d="M253.44,327.79l-1.76-.52-5.29-5.21-10.05-5.21,.88,.87-1.41,.52h1.41l11.81,6.95,2.65,4.34v2.08l1.76,3.47,1.76-4.34-1.76-2.95Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="x" data-name="g83238">
+    <g class="azn">
+      <g id="z" data-name="g83240">
+        <g id="aa" data-name="g83246">
+          <path id="ab" data-name="path83248" class="awi" d="M242.5,329.87l.88,6.08-2.65-.35-4.06,4.69-1.23,.52-1.76-.87-1.76,.87-.88-.52-.88-1.74,1.23-1.74-.88-.35-1.76,3.82-1.23,.52-.53-.52-3.53,.87-2.11-1.21-3.53,.87-.88-.87-.88,1.74,5.64,2.95,.53,.87,1.76-.35,2.65,1.74h4.41l7.05-2.26,5.29-4.34,1.23,.87,2.29-1.21,.35-.87-1.23-3.13h1.76l.88-.87,.88-4.34h-1.76v-1.21l-2.65,.87-2.65-.52Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ac" data-name="g83252">
+    <g class="bdj">
+      <g id="ae" data-name="g83254">
+        <g id="af" data-name="g83260">
+          <path id="ag" data-name="path83262" class="awi" d="M167.55,363.06l-.88-.87h.35l.53,.87Zm27.69-26.24l-.88-2.08-3-3.47-6.17-3.13-.53-1.21-28.57-10.08v22.24l-.88,11.64,.88,.87v18.42l1.23,.87,8.47-.87,3.88,1.74,4.94-2.61,1.23-.87-1.23-3.13-4.06-1.74h1.76l5.29-.87-2.11-2.61,1.23,.52h3.53l-2.65-4.52,2.29,2.26,3.53-.35,1.23,.87-.88-1.91,1.41,1.05-.53-1.39,.53,.87h2.65v1.39l7.41,1.21,2.65,1.39,4.06,7.82,2.11,.35,.88-.35,.88,3.47,1.76,.35,3.53,4.87,15.87,1.74,3.18,1.21,1.23,1.74,3.53-.87-2.11-2.08h2.11l1.76-.87h-4.41l-4.76-3.13,1.76-.35,.35-1.39-4.41-.35-1.76-1.39,.53-2.95h-5.82l-4.76-8.69-6.7-4.52-2.11-4.34,.35-1.21h4.94l2.65-.87-.53-2.26-3-2.95-2.65-.52-5.29-2.61-6.17-1.21,.35-3.13Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ah" data-name="g83308">
+    <g class="bdi">
+      <g id="aj" data-name="g83310">
+        <g id="ak" data-name="g83316">
+          <path id="al" data-name="path83318" class="awi" d="M268.43,343.77l4.41,6.08,3.53,1.74,2.29-1.21-.53-1.74-6.17-5.73-.88-2.08-2.65-1.39v4.34Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="am" data-name="g83322">
+    <g class="bdh">
+      <g id="ao" data-name="g83324">
+        <g id="ap" data-name="g83330">
+          <path id="aq" data-name="path83332" class="awi" d="M298.94,356.8l.88,1.91,4.41,2.95,6.52,3.47-1.23-1.21,.88-.87-3.53-2.61-2.65-.52-3.18-2.61-2.11-.52Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ar" data-name="g83336">
+    <g class="bdg">
+      <g id="at" data-name="g83338">
+        <g id="au" data-name="g83344">
+          <path id="av" data-name="path83346" class="awi" d="M288.36,353.85l-.88-2.26-4.94-2.08,3.18,3.82,2.11,1.74h3.53l-3-1.21Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aw" data-name="g83350">
+    <g class="bdf">
+      <g id="ay" data-name="g83352">
+        <g id="az" data-name="g83358">
+          <path id="ba" data-name="path83360" class="awi" d="M317.81,363.06h-1.23l2.11,6.95,4.06,3.82-3.18-8.16-1.76-2.61Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="bb" data-name="g83364">
+    <g class="bdx">
+      <g id="bd" data-name="g83366">
+        <g id="be" data-name="g83372">
+          <path id="bf" data-name="path83374" class="awi" d="M309.52,370.88l-1.41,.35v1.74l2.29,2.26,6.17,1.21,1.23-1.74-3-2.61h-3.18l-2.11-1.21Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="bg" data-name="g83378">
+    <g class="bdp">
+      <g id="bi" data-name="g83380">
+        <g id="bj" data-name="g83386">
+          <path id="bk" data-name="path83388" class="awi" d="M331.04,383.91l-2.11-3.47-6.7-1.74v.87l1.41,.35,.35,1.39,2.29,1.74,4.76,.87Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="bl" data-name="g83392">
+    <g class="bdq">
+      <g id="bn" data-name="g83394">
+        <g id="bo" data-name="g83400">
+          <path id="bp" data-name="path83402" class="awi" d="M372.83,430.81l2.65-1.39-5.29-4.34-.35,1.74,2.11,.87,.88,3.13Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="bq" data-name="g83406">
+    <g class="bdv">
+      <g id="bs" data-name="g83408">
+        <g id="bt" data-name="g83414">
+          <path id="bu" data-name="path83416" class="awi" d="M368.96,417.26l-.88,1.74h-.88l-.53-2.61-1.76-1.21,.88,6.08,.88,1.74,4.06-.87-.88-3.47-.88-1.39Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="bv" data-name="g83420">
+    <g class="bdw">
+      <g id="bx" data-name="g83422">
+        <g id="by" data-name="g83428">
+          <path id="bz" data-name="path83430" class="awi" d="M346.91,464.69l4.41,4.69,5.29,4.34h1.76l8.29,5.73,2.29-.87-14.64-12.16-10.05-6.08,2.65,4.34Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ca" data-name="g83434">
+    <g class="bds">
+      <g id="cc" data-name="g83436">
+        <g id="cd" data-name="g83442">
+          <path id="ce" data-name="path83444" class="awi" d="M371.07,465.56h-1.76l.88,.87-1.23,.87,.35,.35,2.29,1.74,.88-1.21-1.41-2.61Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="cf" data-name="g83448">
+    <g class="bdt">
+      <g id="ch" data-name="g83450">
+        <g id="ci" data-name="g83456">
+          <path id="cj" data-name="path83458" class="awi" d="M376.89,473.37l1.23-1.74-1.23-.87-1.41,.35v1.74l1.41,.52Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="cm" data-name="g84578">
+    <g class="bdu">
+      <g id="co" data-name="g84580">
+        <g id="cp" data-name="g84586">
+          <g id="cq" data-name="g84588">
+            <path id="cr" data-name="path84590" class="awf" d="M265.1,61.69l2.45-2.45-.82,1.63,.49,.82-1.63,.82-.49-.82"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ct" data-name="g84866">
+    <g class="bdr">
+      <g id="cv" data-name="g84868">
+        <g id="cw" data-name="g84874">
+          <g id="cx" data-name="g84876">
+            <path id="cy" data-name="path84878" class="awf" d="M294.15,26.89v3.27l-2.45,.82,.82-1.14-.49-1.31,2.12-1.63"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="cz" data-name="g84882">
+    <g class="bdo">
+      <g id="db" data-name="g84884">
+        <g id="dc" data-name="g84890">
+          <g id="dd" data-name="g84892">
+            <path id="de" data-name="path84894" class="awf" d="M418.34,281.75l-.88-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="df" data-name="g84898">
+    <g class="bdk">
+      <g id="dh" data-name="g84900">
+        <g id="di" data-name="g84906">
+          <g id="dj" data-name="g84908">
+            <path id="dk" data-name="path84910" class="awf" d="M418.34,288.7l-.53-1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="dl" data-name="g84914">
+    <g class="bdm">
+      <g id="dn" data-name="g84916">
+        <g id="do" data-name="g84922">
+          <g id="dp" data-name="g84924">
+            <path id="dq" data-name="path84926" class="awf" d="M432.45,305.55l-.88-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="dr" data-name="g84930">
+    <g class="bdn">
+      <g id="dt" data-name="g84932">
+        <g id="du" data-name="g84938">
+          <g id="dv" data-name="g84940">
+            <path id="dw" data-name="path84942" class="awf" d="M416.04,271.33l.88-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="dx" data-name="g84946">
+    <g class="bdl">
+      <g id="dz" data-name="g84948">
+        <g id="ea" data-name="g84954">
+          <g id="eb" data-name="g84956">
+            <path id="ec" data-name="path84958" class="awf" d="M418.34,285.23l.88-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ed" data-name="g84962">
+    <g class="bbv">
+      <g id="ef" data-name="g84964">
+        <g id="eg" data-name="g84970">
+          <g id="eh" data-name="g84972">
+            <path id="ei" data-name="path84974" class="awf" d="M429.8,301.21l.35,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ej" data-name="g84978">
+    <g class="bbu">
+      <g id="el" data-name="g84980">
+        <g id="em" data-name="g84986">
+          <g id="en" data-name="g84988">
+            <path id="eo" data-name="path84990" class="awf" d="M543.21,318.58l.88,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ep" data-name="g84994">
+    <g class="bbt">
+      <g id="er" data-name="g84996">
+        <g id="es" data-name="g85002">
+          <g id="et" data-name="g85004">
+            <path id="eu" data-name="path85006" class="awf" d="M452.2,435.5l.88-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ev" data-name="g85010">
+    <g class="baa">
+      <g id="ex" data-name="g85012">
+        <g id="ey" data-name="g85018">
+          <g id="ez" data-name="g85020">
+            <path id="fa" data-name="path85022" class="awf" d="M453.96,432.89l1.41-1.21"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="fb" data-name="g85026">
+    <g class="bab">
+      <g id="fd" data-name="g85028">
+        <g id="fe" data-name="g85034">
+          <g id="ff" data-name="g85036">
+            <path id="fg" data-name="path85038" class="awf" d="M471.6,432.55h-1.76l-5.29,1.74-1.76-1.74,.53-1.39,1.23,.52,1.76-1.74,8.82-2.61-4.41,4.69,.88,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="fh" data-name="g85042">
+    <g class="azs">
+      <g id="fj" data-name="g85044">
+        <g id="fk" data-name="g85050">
+          <g id="fl" data-name="g85052">
+            <path id="fm" data-name="path85054" class="awf" d="M475.13,434.29l.53-1.74h.88l-1.41,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="fn" data-name="g85058">
+    <g class="bak">
+      <g id="fp" data-name="g85060">
+        <g id="fq" data-name="g85066">
+          <g id="fr" data-name="g85068">
+            <path id="fs" data-name="path85070" class="awf" d="M471.6,432.55l2.29-2.26,.35,2.26h-2.65"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ft" data-name="g85074">
+    <g class="bac">
+      <g id="fv" data-name="g85076">
+        <g id="fw" data-name="g85082">
+          <g id="fx" data-name="g85084">
+            <path id="fy" data-name="path85086" class="awf" d="M474.25,448.18l.53-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="fz" data-name="g85090">
+    <g class="bal">
+      <g id="gb" data-name="g85092">
+        <g id="gc" data-name="g85098">
+          <g id="gd" data-name="g85100">
+            <path id="ge" data-name="path85102" class="awf" d="M462.78,450.79h-1.76l-1.76,1.74-.88-.52,3.18-1.74,1.23,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="gf" data-name="g85106">
+    <g class="baj">
+      <g id="gh" data-name="g85108">
+        <g id="gi" data-name="g85114">
+          <g id="gj" data-name="g85116">
+            <path id="gk" data-name="path85118" class="awf" d="M465.08,440.37l.35-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="gl" data-name="g85122">
+    <g class="bah">
+      <g id="gn" data-name="g85124">
+        <g id="go" data-name="g85130">
+          <g id="gp" data-name="g85132">
+            <path id="gq" data-name="path85134" class="awf" d="M469.84,443.84l-.88-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="gr" data-name="g85138">
+    <g class="bag">
+      <g id="gt" data-name="g85140">
+        <g id="gu" data-name="g85146">
+          <g id="gv" data-name="g85148">
+            <path id="gw" data-name="path85150" class="awf" d="M464.55,443.32l-7.41,1.39-4.06-.87-.35-1.39,.88-2.95,3-1.74,3.53-.87,3.53,2.61,.88,3.82"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="gx" data-name="g85154">
+    <g class="bai">
+      <g id="gz" data-name="g85156">
+        <g id="ha" data-name="g85162">
+          <g id="hb" data-name="g85164">
+            <path id="hc" data-name="path85166" class="awf" d="M470.37,437.76l.35-1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="hd" data-name="g85170">
+    <g class="azz">
+      <g id="hf" data-name="g85172">
+        <g id="hg" data-name="g85178">
+          <g id="hh" data-name="g85180">
+            <path id="hi" data-name="path85182" class="awf" d="M456.26,447.32l-.53-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="hj" data-name="g85186">
+    <g class="azq">
+      <g id="hl" data-name="g85188">
+        <g id="hm" data-name="g85194">
+          <g id="hn" data-name="g85196">
+            <path id="ho" data-name="path85198" class="awf" d="M537.57,405.1l1.23,.52v2.08l-3-.87-1.41-1.21,3.17-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="hp" data-name="g85202">
+    <g class="azo">
+      <g id="hr" data-name="g85204">
+        <g id="hs" data-name="g85210">
+          <g id="ht" data-name="g85212">
+            <path id="hu" data-name="path85214" class="awf" d="M545.5,409.96l-4.06-.52-.88-.87,1.41-.87,3.53,2.26"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="hv" data-name="g85218">
+    <g class="azp">
+      <g id="hx" data-name="g85220">
+        <g id="hy" data-name="g85226">
+          <g id="hz" data-name="g85228">
+            <path id="ia" data-name="path85230" class="awf" d="M490.12,411.7l.88,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ib" data-name="g85234">
+    <g class="azt">
+      <g id="id" data-name="g85236">
+        <g id="ie" data-name="g85242">
+          <g id="if" data-name="g85244">
+            <path id="ig" data-name="path85246" class="awf" d="M513.58,468.51l2.29,.52-.88,.87-1.41-.87v-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ih" data-name="g85250">
+    <g class="azu">
+      <g id="ij" data-name="g85252">
+        <g id="ik" data-name="g85258">
+          <g id="il" data-name="g85260">
+            <path id="im" data-name="path85262" class="awf" d="M516.75,471.64v-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="in" data-name="g85266">
+    <g class="azr">
+      <g id="ip" data-name="g85268">
+        <g id="iq" data-name="g85274">
+          <g id="ir" data-name="g85276">
+            <path id="is" data-name="path85278" class="awf" d="M524.69,448.18v.35l-.88-.87,.88,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="it" data-name="g85282">
+    <g class="baf">
+      <g id="iv" data-name="g85284">
+        <g id="iw" data-name="g85290">
+          <g id="ix" data-name="g85292">
+            <path id="iy" data-name="path85294" class="awf" d="M483.6,436.37l-.53-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="iz" data-name="g85298">
+    <g class="bae">
+      <g id="jb" data-name="g85300">
+        <g id="jc" data-name="g85306">
+          <g id="jd" data-name="g85308">
+            <path id="je" data-name="path85310" class="awf" d="M551.15,412.57l-.88-.52,1.41-.35-.53,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="jf" data-name="g85314">
+    <g class="bad">
+      <g id="jh" data-name="g85316">
+        <g id="ji" data-name="g85322">
+          <g id="jj" data-name="g85324">
+            <path id="jk" data-name="path85326" class="awf" d="M557.32,451.66l1.41-.87-.53,1.21-.88-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="jl" data-name="g85330">
+    <g class="bbj">
+      <g id="jn" data-name="g85332">
+        <g id="jo" data-name="g85338">
+          <g id="jp" data-name="g85340">
+            <path id="jq" data-name="path85342" class="awf" d="M417.81,584.9l-.88,.87,2.65,4,1.41-1.39v1.39l3.88,.35,1.76,.87-.88,.87,1.76,1.39,.88-1.39v5.73l1.76,.87,2.65,4.34-.88,1.74,.53,.35v1.74l-.88,.52,2.65,.35,2.11,2.26h2.29l-.53-5.73,.53,1.74h2.11l-.88,.87,.88,.87,1.76,6.95,8.82,3.47,3.18-.87,4.76-3.47,4.06,1.39-1.41,2.61-.35,4.34-4.06,5.21,.88,1.74h-.88v-.87l-2.65-.52-3.53,1.39-1.76,2.61,.53,1.74h1.23l-3.88,7.82-5.29,6.95-6.17,4-.53-1.91h-2.11l-.53-1.74-.88,1.39-.88-.52,4.41-5.56,.53-4.34-.53-1.74-9.7-4.87-1.76-2.61,5.29-3.47,1.76-2.08,2.65-8.69-1.76-4.34-.88-.52,2.29-1.74-1.76-1.21-1.41,.87-2.65-4.87,1.76,.87-1.23-2.08,1.76-.87h-1.41l.53-1.39h-1.41v.87l-1.76-.87,1.41,1.74-.88,.52-4.41-8.69,.88-.87-1.76,.87-.53,.87-2.11-5.73-3.18-4.34h2.65"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="jr" data-name="g85346">
+    <g class="bbl">
+      <g id="jt" data-name="g85348">
+        <g id="ju" data-name="g85354">
+          <g id="jv" data-name="g85356">
+            <path id="jw" data-name="path85358" class="awf" d="M419.22,649.18l6.17-3.82-.88,3.47,2.11-.87-1.76-.52,3.53-1.21-.88,1.74-1.76,.87,2.65-.52-1.76,1.39,1.76,3.47-13.23,16.16v2.61h2.65l.53,2.08h-5.29l1.76-.87h-1.41l-9.7,5.21-1.23,6.08-4.94,8.34v1.21h1.76l-4.41,1.74-3.53,4.34-4.41,1.74-7.41-.35,.35-1.39-4.76-.87-1.41-1.74-7.94-.35,1.76-2.26-2.11,1.39,.35-2.26-1.23,1.39-.53-1.39,4.06-1.21-1.41-.52,1.41-.87h-1.41l1.76-.35-2.65-.52,1.41-1.74,2.65,.87-1.41-2.08,.88-.52-.35-.87,2.11-.35-1.23-.52h2.11v-1.74l4.06-1.74-.53-1.21,3.53-4.34,4.41-1.39,9.7-6.08,9.35-7.29,2.65-7.82,3.88-2.26,2.65-7.47,3.53-2.61h1.41l-.53,2.61,2.29,.87,.88,4.34"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="jx" data-name="g85362">
+    <g class="bbi">
+      <g id="jz" data-name="g85364">
+        <g id="ka" data-name="g85370">
+          <g id="kb" data-name="g85372">
+            <path id="kc" data-name="path85374" class="awf" d="M501.23,673.16l4.76-.35-2.65,.35,1.76,2.61-2.11,.87-.53-1.21,.53-1.39-2.65-.35,.88-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="kd" data-name="g85378">
+    <g class="bbn">
+      <g id="kf" data-name="g85380">
+        <g id="kg" data-name="g85386">
+          <g id="kh" data-name="g85388">
+            <path id="ki" data-name="path85390" class="awf" d="M335.45,253.09l.88-.52-.53,.87-.35-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="kj" data-name="g85394">
+    <g class="bbm">
+      <g id="kl" data-name="g85396">
+        <g id="km" data-name="g85402">
+          <g id="kn" data-name="g85404">
+            <path id="ko" data-name="path85406" class="awf" d="M297.18,241.27l-.53-1.74,1.41,.87-.88,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="kp" data-name="g85410">
+    <g class="bbh">
+      <g id="kr" data-name="g85412">
+        <g id="ks" data-name="g85418">
+          <g id="kt" data-name="g85420">
+            <path id="ku" data-name="path85422" class="awf" d="M383.95,236.93h-1.41"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="kv" data-name="g85426">
+    <g class="bbk">
+      <g id="kx" data-name="g85428">
+        <g id="ky" data-name="g85434">
+          <g id="kz" data-name="g85436">
+            <path id="la" data-name="path85438" class="awf" d="M390.12,249.09l.35-1.21"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="lb" data-name="g85442">
+    <g class="bbg">
+      <g id="ld" data-name="g85444">
+        <g id="le" data-name="g85450">
+          <g id="lf" data-name="g85452">
+            <path id="lg" data-name="path85454" class="awf" d="M403.35,238.67l-1.41-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="lh" data-name="g85458">
+    <g class="bcd">
+      <g id="lj" data-name="g85460">
+        <g id="lk" data-name="g85466">
+          <g id="ll" data-name="g85468">
+            <path id="lm" data-name="path85470" class="awf" d="M188.18,185.68l-2.11,2.61-.53-1.21,2.65-1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ln" data-name="g85474">
+    <g class="bce">
+      <g id="lp" data-name="g85476">
+        <g id="lq" data-name="g85482">
+          <g id="lr" data-name="g85484">
+            <path id="ls" data-name="path85486" class="awf" d="M250.44,321.19l.88-.87v1.74l-.88-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="lt" data-name="g85490">
+    <g class="bcc">
+      <g id="lv" data-name="g85492">
+        <g id="lw" data-name="g85498">
+          <g id="lx" data-name="g85500">
+            <path id="ly" data-name="path85502" class="awf" d="M253.44,327.79l1.76,2.95-1.76,4.34-1.76-3.47v-2.08l-2.65-4.34-11.81-6.95h-1.41l1.41-.52-.88-.87,10.05,5.21,5.29,5.21,1.76,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="lz" data-name="g85506">
+    <g class="bav">
+      <g id="mb" data-name="g85508">
+        <g id="mc" data-name="g85514">
+          <g id="md" data-name="g85516">
+            <path id="me" data-name="path85518" class="awf" d="M232.8,317.71l-3.53-1.74,2.11-.87,1.76,.87-.35,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="mf" data-name="g85522">
+    <g class="bau">
+      <g id="mh" data-name="g85524">
+        <g id="mi" data-name="g85530">
+          <g id="mj" data-name="g85532">
+            <path id="mk" data-name="path85534" class="awf" d="M242.5,329.87l2.65,.52,2.65-.87v1.21h1.76l-.88,4.34-.88,.87h-1.76l1.23,3.13-.35,.87-2.29,1.21-1.23-.87-5.29,4.34-7.05,2.26h-4.41l-2.65-1.74-1.76,.35-.53-.87-5.64-2.95,.88-1.74,.88,.87,3.53-.87,2.11,1.21,3.53-.87,.53,.52,1.23-.52,1.76-3.82,.88,.35-1.23,1.74,.88,1.74,.88,.52,1.76-.87,1.76,.87,1.23-.52,4.06-4.69,2.65,.35-.88-6.08"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ml" data-name="g85538">
+    <g class="bbe">
+      <g id="mn" data-name="g85540">
+        <g id="mo" data-name="g85546">
+          <g id="mp" data-name="g85548">
+            <path id="mq" data-name="path85550" class="awf" d="M227.51,309.03l-1.41-2.08,1.41,.35v1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="mr" data-name="g85554">
+    <g class="bas">
+      <g id="mt" data-name="g85556">
+        <g id="mu" data-name="g85562">
+          <g id="mv" data-name="g85564">
+            <path id="mw" data-name="path85566" class="awf" d="M201.41,313.89l-.35-.52,1.23-1.74,6.17,.87-1.76,.87-3.88-.35-1.41,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="mx" data-name="g85570">
+    <g class="bat">
+      <g id="mz" data-name="g85572">
+        <g id="na" data-name="g85578">
+          <g id="nb" data-name="g85580">
+            <path id="nc" data-name="path85582" class="awf" d="M207.23,339.08l-.88,.87-.88-1.39,.88-.87,.88,1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="nd" data-name="g85586">
+    <g class="azv">
+      <g id="nf" data-name="g85588">
+        <g id="ng" data-name="g85594">
+          <g id="nh" data-name="g85596">
+            <path id="ni" data-name="path85598" class="awf" d="M196.65,334.22l.35-1.74,.53,.87-.88,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="nj" data-name="g85602">
+    <g class="azw">
+      <g id="nl" data-name="g85604">
+        <g id="nm" data-name="g85610">
+          <g id="nn" data-name="g85612">
+            <path id="no" data-name="path85614" class="awf" d="M138.45,361.49v.18l.35,1.39,2.65-1.74v-.87l.53,1.74h1.76l3.88-.87,.88-1.39-.88,2.26,8.47,7.82,1.23,.87,8.47-.87,3.88,1.74,4.94-2.61,1.23-.87-1.23-3.13-4.06-1.74h1.76l5.29-.87-2.11-2.61,1.23,.52h3.53l-2.65-4.52,2.29,2.26,3.53-.35,1.23,.87-.88-1.91,1.41,1.05-.53-1.39,.53,.87h2.65v1.39l7.41,1.21,2.65,1.39,4.06,7.82,2.11,.35,.88-.35,.88,3.47,1.76,.35,3.53,4.87,15.87,1.74,3.18,1.21,1.23,1.74,3.53-.87-2.11-2.08h2.11l1.76-.87h-4.41l-4.76-3.13,1.76-.35,.35-1.39-4.41-.35-1.76-1.39,.53-2.95h-5.82l-4.76-8.69-6.7-4.52-2.11-4.34,.35-1.21h4.94l2.65-.87-.53-2.26-3-2.95-2.65-.52-5.29-2.61-6.17-1.21,.35-3.13-.88-2.08-3-3.47-6.17-3.13-.53-1.21-28.57-10.08-2.29,.52-.35-1.39-7.59-.87-14.99-7.29-6.52,2.61,.88,2.08-4.41,1.74-2.29-.35-3.88,6.08-3.53,2.95h-3.18l-1.76-.87-.35-2.61-1.41,.52-.35-3.47h-1.41l.53,2.61-.88-1.39-2.65-8.16,1.23-2.61-1.76-3.13,.88-.87-6.17-1.21-4.76-2.26-3.18-.87-4.41,2.61-5.29,1.39v1.21l-2.11,3.47,7.94,.87-.53,.87,.53,2.61,2.65,2.61,10.05-.35,3.53-.87-1.23,1.21h1.23l-.35,.52,.88,.35-1.41,1.39v.87l-.88-1.39-.35,1.74v-1.21l-1.76,.87v-1.39l-.53,1.74-.88-2.08-2.11,.35-2.65,2.61-3.18-.87-3,.52,4.41,2.08,1.76,2.26,.88-.52,.88,2.61-1.76,.52,1.76,3.82,3-.87,4.94-8.16-2.29,3.82,.53,1.74,1.23-.87,1.41,2.26,.88-.52,1.76,1.74v-.87l2.65,.87,.35-.35-.35,1.21,23.81,8.34,4.41,2.08v2.61l2.11-.35-1.23,.87,1.76,.35-1.41,.87,1.41,3.47,3.53,2.61h-1.41l4.06,2.26-2.29-.87-2.65,.35,4.94,2.61h-4.06l3.18,2.61-.35,.7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="np" data-name="g85618">
+    <g class="baw">
+      <g id="nr" data-name="g85620">
+        <g id="ns" data-name="g85626">
+          <g id="nt" data-name="g85628">
+            <path id="nu" data-name="path85630" class="awf" d="M213.4,342.9l-1.76-2.61,2.11,.87-.35,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="nv" data-name="g85634">
+    <g class="bax">
+      <g id="nx" data-name="g85636">
+        <g id="ny" data-name="g85642">
+          <g id="nz" data-name="g85644">
+            <path id="oa" data-name="path85646" class="awf" d="M254.32,370.01l-1.23,.87-2.65-1.74h3.53l.35,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ob" data-name="g85650">
+    <g class="bbd">
+      <g id="od" data-name="g85652">
+        <g id="oe" data-name="g85658">
+          <g id="of" data-name="g85660">
+            <path id="og" data-name="path85662" class="awf" d="M238.97,367.4l-.88-2.61,.88-.87v3.47"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="oh" data-name="g85666">
+    <g class="bao">
+      <g id="oj" data-name="g85668">
+        <g id="ok" data-name="g85674">
+          <g id="ol" data-name="g85676">
+            <path id="om" data-name="path85678" class="awf" d="M232.27,370.88v2.08l-1.76-1.21,.88-1.39,.88,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="on" data-name="g85682">
+    <g class="bbc">
+      <g id="op" data-name="g85684">
+        <g id="oq" data-name="g85690">
+          <g id="or" data-name="g85692">
+            <path id="os" data-name="path85694" class="awf" d="M236.15,374.7l2.83,2.61,1.23-1.21-.35,2.61-2.29-.87-1.59-3.3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ot" data-name="g85698">
+    <g class="bbf">
+      <g id="ov" data-name="g85700">
+        <g id="ow" data-name="g85706">
+          <g id="ox" data-name="g85708">
+            <path id="oy" data-name="path85710" class="awf" d="M235.98,374.52l-2.82-.69,.53-.35-.53-1.74,3.18,.35,.88,1.74-.53,.87h-.53"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="oz" data-name="g85714">
+    <g class="bar">
+      <g id="pb" data-name="g85716">
+        <g id="pc" data-name="g85722">
+          <g id="pd" data-name="g85724">
+            <path id="pe" data-name="path85726" class="awf" d="M236.15,374.7l-.35-.35,.18,.17"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="pf" data-name="g85730">
+    <g class="bay">
+      <g id="ph" data-name="g85732">
+        <g id="pi" data-name="g85738">
+          <g id="pj" data-name="g85740">
+            <path id="pk" data-name="path85742" class="awf" d="M235.98,374.52l.17,.18"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="pl" data-name="g85746">
+    <g class="ban">
+      <g id="pn" data-name="g85748">
+        <g id="po" data-name="g85754">
+          <g id="pp" data-name="g85756">
+            <path id="pq" data-name="path85758" class="awf" d="M237.21,382.17l-.88-.87h.88v.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="pr" data-name="g85762">
+    <g class="baq">
+      <g id="pt" data-name="g85764">
+        <g id="pu" data-name="g85770">
+          <g id="pv" data-name="g85772">
+            <path id="pw" data-name="path85774" class="awf" d="M258.73,390.33l-2.65-2.61,4.41,2.26-1.76,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="px" data-name="g85778">
+    <g class="bam">
+      <g id="pz" data-name="g85780">
+        <g id="qa" data-name="g85786">
+          <g id="qb" data-name="g85788">
+            <path id="qc" data-name="path85790" class="awf" d="M263.14,387.73l1.76,.52-1.76,.35v-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="qd" data-name="g85794">
+    <g class="bbz">
+      <g id="qf" data-name="g85796">
+        <g id="qg" data-name="g85802">
+          <g id="qh" data-name="g85804">
+            <path id="qi" data-name="path85806" class="awf" d="M252.2,382.51l-1.76-.35h2.65l-.88,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="qj" data-name="g85810">
+    <g class="bby">
+      <g id="ql" data-name="g85812">
+        <g id="qm" data-name="g85818">
+          <g id="qn" data-name="g85820">
+            <path id="qo" data-name="path85822" class="awf" d="M139.86,357.5l.35,.35-1.41,3.47-.35,.17"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="qp" data-name="g85826">
+    <g class="bbb">
+      <g id="qr" data-name="g85828">
+        <g id="qs" data-name="g85834">
+          <g id="qt" data-name="g85836">
+            <path id="qu" data-name="path85838" class="awf" d="M139.86,357.5l-1.94-1.91-3.88,.35-2.65,1.91-2.65,6.43,6.17-.35,1.23-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="qv" data-name="g85922">
+    <g class="bap">
+      <g id="qx" data-name="g85924">
+        <g id="qy" data-name="g85930">
+          <g id="qz" data-name="g85932">
+            <path id="ra" data-name="path85934" class="awf" d="M177.6,366.53l-3.53-2.61,2.29,.87,1.23,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="rb" data-name="g85938">
+    <g class="bba">
+      <g id="rd" data-name="g85940">
+        <g id="re" data-name="g85946">
+          <g id="rf" data-name="g85948">
+            <path id="rg" data-name="path85950" class="awf" d="M177.25,364.8l-2.29-1.39,2.29,.52v.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="rh" data-name="g85954">
+    <g class="baz">
+      <g id="rj" data-name="g85956">
+        <g id="rk" data-name="g85962">
+          <g id="rl" data-name="g85964">
+            <path id="rm" data-name="path85966" class="awf" d="M166.66,362.19l.88,.87-.53-.87h-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="rn" data-name="g85970">
+    <g class="bbs">
+      <g id="rp" data-name="g85972">
+        <g id="rq" data-name="g85978">
+          <g id="rr" data-name="g85980">
+            <path id="rs" data-name="path85982" class="awf" d="M165.25,362.19h1.41"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="rt" data-name="g85986">
+    <g class="bbr">
+      <g id="rv" data-name="g85988">
+        <g id="rw" data-name="g85994">
+          <g id="rx" data-name="g85996">
+            <path id="ry" data-name="path85998" class="awf" d="M191.53,620.7l1.05-.52,.53,.87-1.41,1.74,4.41,3.47,.88-.87,1.41,.87,1.76,2.61v-2.61h-.88l-.88-1.39,5.29-.35,9.17-7.47,11.11-.87,3.53-2.95h2.11l.53-2.26-1.41-1.74v-1.21l3.53-11.29,2.29-4.87h1.23l-.35-.87,1.23-.35-.88-2.26,1.41-1.74-.88-.35,3.88-6.08v-3.13l4.41-6.08,3.18-1.21-.88-.52,3.53-2.08v-3.47l3.53-6.6,.35-6.43,2.29-7.82,.35-3.47,2.29-5.21-1.76-8.34-2.65-4.34v-1.74h1.23l-1.23-7.29,.88-2.61h-1.41l-.35-1.74-.53-3.47-2.65-1.39-1.23-3.47-3.18-2.08-1.23-3.47-2.29-.52-6.52-4.69-.53-4.87,.53-2.08-.88-2.61-1.41,.87,.53,.87-3.18-1.74-1.23-1.74v3.82l-1.41-1.21h-1.76l-3.53-11.82-3-1.74-1.41-1.74,.88-2.08,.88,.87-3-4-.88,1.39-1.41-1.74-3.53-2.61-1.23,.87-2.29-4-1.23,.87-1.76-.87v-1.21l-1.41,.87-4.76-3.13,.35-2.95-2.11-1.74-.88-12.16-1.76,.87-2.65-4.34-1.41-8.69,.88-1.39-.88-1.21,.53-1.39-5.29-2.95-1.76-2.61h-2.29l-1.76,2.08-1.23-.87-2.65-10.77,.35-1.74h-1.23l.35-2.26-2.65-2.08,1.41-3.13-3.18-1.21-1.23-6.95h-1.76l.88-1.74-.88-.52-3.18,2.26-1.76,8.69-2.65,4.34,.88-.87,1.76,1.21,.53,2.26-1.41-1.74-1.23,1.74,.35,2.95-1.76,4.87,.88,2.61-.35,4.69,.88,2.61-1.76,8.69-4.41,10.42-3.18,2.26-3.88,.87-7.05-5.21-1.41-1.74-8.29-2.61-8.82-5.21h-1.76l-9.7-8.34-.53-1.74,3.18-3.82,1.76-4.87-1.41,.52v-3.47l4.06-1.39v1.39l.88-.52v-2.08h1.23l-1.23-1.74,.88,.35,1.23-2.61,2.29-1.21-1.76-1.39-.88,.52-1.76-2.26"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="rz" data-name="g86002">
+    <g class="bcb">
+      <g id="sb" data-name="g86004">
+        <g id="sc" data-name="g86010">
+          <g id="sd" data-name="g86012">
+            <path id="se" data-name="path86014" class="awf" d="M166.66,382.51l-.88,.52v-1.39l.88,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="sf" data-name="g86018">
+    <g class="bca">
+      <g id="sh" data-name="g86020">
+        <g id="si" data-name="g86026">
+          <g id="sj" data-name="g86028">
+            <path id="sk" data-name="path86030" class="awf" d="M122.92,411.7l-4.76-.52,.35-2.95,1.76-.52-.35-.87h.88l.88,1.39,.88-.52-1.76,3.13,1.23,.35,.88-.35v.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="sl" data-name="g86034">
+    <g class="bbq">
+      <g id="sn" data-name="g86036">
+        <g id="so" data-name="g86042">
+          <g id="sp" data-name="g86044">
+            <path id="sq" data-name="path86046" class="awf" d="M144.09,429.94h1.41l-.88,.87-.53-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="sr" data-name="g86050">
+    <g class="bbw">
+      <g id="st" data-name="g86052">
+        <g id="su" data-name="g86058">
+          <g id="sv" data-name="g86060">
+            <path id="sw" data-name="path86062" class="awf" d="M144.09,429.94l-1.76,2.08-1.23-.35,1.23-1.74h1.76"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="sx" data-name="g86066">
+    <g class="bbx">
+      <g id="sz" data-name="g86068">
+        <g id="ta" data-name="g86074">
+          <g id="tb" data-name="g86076">
+            <path id="tc" data-name="path86078" class="awf" d="M144.09,434.63l.53,.52-1.41,.35,.88-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="td" data-name="g86082">
+    <g class="bbo">
+      <g id="tf" data-name="g86084">
+        <g id="tg" data-name="g86090">
+          <g id="th" data-name="g86092">
+            <path id="ti" data-name="path86094" class="awf" d="M199.29,446.79l-1.41-2.08h1.41v2.08"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="tj" data-name="g86098">
+    <g class="bbp">
+      <g id="tl" data-name="g86100">
+        <g id="tm" data-name="g86106">
+          <g id="tn" data-name="g86108">
+            <path id="to" data-name="path86110" class="awf" d="M221.34,462.08v-1.39l.88,1.39h-.88"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="tp" data-name="g86114">
+    <g class="azy">
+      <g id="tr" data-name="g86116">
+        <g id="ts" data-name="g86122">
+          <g id="tt" data-name="g86124">
+            <path id="tu" data-name="path86126" class="awf" d="M359.61,382.17l2.29,.35-2.65,1.39,.35-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="tv" data-name="g86130">
+    <g class="azx">
+      <g id="tx" data-name="g86132">
+        <g id="ty" data-name="g86138">
+          <g id="tz" data-name="g86140">
+            <path id="ua" data-name="path86142" class="awf" d="M367.54,390.86l-.35-.87,1.23,.87h-.88"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ub" data-name="g86146">
+    <g class="bcg">
+      <g id="ud" data-name="g86148">
+        <g id="ue" data-name="g86154">
+          <g id="uf" data-name="g86156">
+            <path id="ug" data-name="path86158" class="awf" d="M268.08,336.48l.35,1.21-.88,2.26-.88-2.61,1.41-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="uh" data-name="g86162">
+    <g class="bcw">
+      <g id="uj" data-name="g86164">
+        <g id="uk" data-name="g86170">
+          <g id="ul" data-name="g86172">
+            <path id="um" data-name="path86174" class="awf" d="M268.43,343.77v-4.34l2.65,1.39,.88,2.08,6.17,5.73,.53,1.74-2.29,1.21-3.53-1.74-4.41-6.08"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="un" data-name="g86178">
+    <g class="bch">
+      <g id="up" data-name="g86180">
+        <g id="uq" data-name="g86186">
+          <g id="ur" data-name="g86188">
+            <path id="us" data-name="path86190" class="awf" d="M298.94,356.8l2.11,.52,3.18,2.61,2.65,.52,3.53,2.61-.88,.87,1.23,1.21-6.52-3.47-4.41-2.95-.88-1.91"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ut" data-name="g86194">
+    <g class="bci">
+      <g id="uv" data-name="g86196">
+        <g id="uw" data-name="g86202">
+          <g id="ux" data-name="g86204">
+            <path id="uy" data-name="path86206" class="awf" d="M288.36,353.85l3,1.21h-3.53l-2.11-1.74-3.18-3.82,4.94,2.08,.88,2.26"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="uz" data-name="g86210">
+    <g class="bcm">
+      <g id="vb" data-name="g86212">
+        <g id="vc" data-name="g86218">
+          <g id="vd" data-name="g86220">
+            <path id="ve" data-name="path86222" class="awf" d="M284.83,360.45l-1.41-3.65,2.29,1.91-.88,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="vf" data-name="g86226">
+    <g class="bcf">
+      <g id="vh" data-name="g86228">
+        <g id="vi" data-name="g86234">
+          <g id="vj" data-name="g86236">
+            <path id="vk" data-name="path86238" class="awf" d="M288.36,359.93v1.74l-1.76-.87,.88-1.21,.88,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="vl" data-name="g86242">
+    <g class="bcn">
+      <g id="vn" data-name="g86244">
+        <g id="vo" data-name="g86250">
+          <g id="vp" data-name="g86252">
+            <path id="vq" data-name="path86254" class="awf" d="M290.12,366.53l-1.41-1.39,1.41-1.21v2.61"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="vr" data-name="g86258">
+    <g class="bcp">
+      <g id="vt" data-name="g86260">
+        <g id="vu" data-name="g86266">
+          <g id="vv" data-name="g86268">
+            <path id="vw" data-name="path86270" class="awf" d="M288.71,363.06l1.76-2.61,1.41,.35,1.76,2.26v2.08l-1.76-.87-.53-1.74-2.65,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="vx" data-name="g86274">
+    <g class="bco">
+      <g id="vz" data-name="g86276">
+        <g id="wa" data-name="g86282">
+          <g id="wb" data-name="g86284">
+            <path id="wc" data-name="path86286" class="awf" d="M294.88,366.88l-.35-1.74,1.76-.35-1.41,2.08"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="wd" data-name="g86290">
+    <g class="bcy">
+      <g id="wf" data-name="g86292">
+        <g id="wg" data-name="g86298">
+          <g id="wh" data-name="g86300">
+            <path id="wi" data-name="path86302" class="awf" d="M276.89,353.33v-1.21l.88,.87-.88,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="wj" data-name="g86306">
+    <g class="bck">
+      <g id="wl" data-name="g86308">
+        <g id="wm" data-name="g86314">
+          <g id="wn" data-name="g86316">
+            <path id="wo" data-name="path86318" class="awf" d="M304.23,369.49l.88-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="wp" data-name="g86322">
+    <g class="bcl">
+      <g id="wr" data-name="g86324">
+        <g id="ws" data-name="g86330">
+          <g id="wt" data-name="g86332">
+            <path id="wu" data-name="path86334" class="awf" d="M317.81,363.06l1.76,2.61,3.18,8.16-4.06-3.82-2.11-6.95h1.23"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="wv" data-name="g86338">
+    <g class="bcx">
+      <g id="wx" data-name="g86340">
+        <g id="wy" data-name="g86346">
+          <g id="wz" data-name="g86348">
+            <path id="xa" data-name="path86350" class="awf" d="M313.75,369.83l-1.58-.69,1.23-.52,.35,1.05"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="xb" data-name="g86354">
+    <g class="bdc">
+      <g id="xd" data-name="g86356">
+        <g id="xe" data-name="g86362">
+          <g id="xf" data-name="g86364">
+            <path id="xg" data-name="path86366" class="awf" d="M313.75,369.66l.18-.18,.88,.52-1.41,.35,.35-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="xh" data-name="g86370">
+    <g class="bcq">
+      <g id="xj" data-name="g86372">
+        <g id="xk" data-name="g86378">
+          <g id="xl" data-name="g86380">
+            <path id="xm" data-name="path86382" class="awf" d="M313.75,369.83l.18,.18-.18-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="xn" data-name="g86386">
+    <g class="bcz">
+      <g id="xp" data-name="g86388">
+        <g id="xq" data-name="g86394">
+          <g id="xr" data-name="g86396">
+            <path id="xs" data-name="path86398" class="awf" d="M313.75,369.66v.17"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="xt" data-name="g86402">
+    <g class="bdb">
+      <g id="xv" data-name="g86404">
+        <g id="xw" data-name="g86410">
+          <g id="xx" data-name="g86412">
+            <path id="xy" data-name="path86414" class="awf" d="M309.52,370.88l2.11,1.21h3.18l3,2.61-1.23,1.74-6.17-1.21-2.29-2.26v-1.74l1.41-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="xz" data-name="g86418">
+    <g class="bcv">
+      <g id="yb" data-name="g86420">
+        <g id="yc" data-name="g86426">
+          <g id="yd" data-name="g86428">
+            <path id="ye" data-name="path86430" class="awf" d="M315.16,390.86l.88,.87h-.35l-4.41-2.61,3.88,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="yf" data-name="g86434">
+    <g class="bcj">
+      <g id="yh" data-name="g86436">
+        <g id="yi" data-name="g86442">
+          <g id="yj" data-name="g86444">
+            <path id="yk" data-name="path86446" class="awf" d="M328.04,375.57l-.53-1.21"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="yl" data-name="g86450">
+    <g class="bdd">
+      <g id="yn" data-name="g86452">
+        <g id="yo" data-name="g86458">
+          <g id="yp" data-name="g86460">
+            <path id="yq" data-name="path86462" class="awf" d="M331.04,383.91l-4.76-.87-2.29-1.74-.35-1.39-1.41-.35v-.87l6.7,1.74,2.11,3.47"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="yr" data-name="g86466">
+    <g class="bcs">
+      <g id="yt" data-name="g86468">
+        <g id="yu" data-name="g86474">
+          <g id="yv" data-name="g86476">
+            <path id="yw" data-name="path86478" class="awf" d="M311.29,453.74v-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="yx" data-name="g86482">
+    <g class="bcu">
+      <g id="yz" data-name="g86484">
+        <g id="za" data-name="g86490">
+          <g id="zb" data-name="g86492">
+            <path id="zc" data-name="path86494" class="awf" d="M374.25,406.84l.35-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="zd" data-name="g86498">
+    <g class="bde">
+      <g id="zf" data-name="g86500">
+        <g id="zg" data-name="g86506">
+          <g id="zh" data-name="g86508">
+            <path id="zi" data-name="path86510" class="awf" d="M373.72,408.23l-1.23,.87,.35-1.74,.88,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="zj" data-name="g86514">
+    <g class="bcr">
+      <g id="zl" data-name="g86516">
+        <g id="zm" data-name="g86522">
+          <g id="zn" data-name="g86524">
+            <path id="zo" data-name="path86526" class="awf" d="M372.83,412.57l-.88-.52,.88-1.21,.88,.35-.88,1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="zp" data-name="g86530">
+    <g class="bct">
+      <g id="zr" data-name="g86532">
+        <g id="zs" data-name="g86538">
+          <g id="zt" data-name="g86540">
+            <path id="zu" data-name="path86542" class="awf" d="M375.48,422.13l-1.23-.87,2.65-.87-1.41,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="zv" data-name="g86546">
+    <g class="bda">
+      <g id="zx" data-name="g86548">
+        <g id="zy" data-name="g86554">
+          <g id="zz" data-name="g86556">
+            <path id="aaa" data-name="path86558" class="awf" d="M379.01,425.08l-.35,.87-.53-3.82,.88,2.95"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aab" data-name="g86562">
+    <g class="aya">
+      <g id="aad" data-name="g86564">
+        <g id="aae" data-name="g86570">
+          <g id="aaf" data-name="g86572">
+            <path id="aag" data-name="path86574" class="awf" d="M378.13,430.81l2.65,2.08-2.65-.35v-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aah" data-name="g86578">
+    <g class="axz">
+      <g id="aaj" data-name="g86580">
+        <g id="aak" data-name="g86586">
+          <g id="aal" data-name="g86588">
+            <path id="aam" data-name="path86590" class="awf" d="M372.83,430.81l-.88-3.13-2.11-.87,.35-1.74,5.29,4.34-2.65,1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aan" data-name="g86594">
+    <g class="ayc">
+      <g id="aap" data-name="g86596">
+        <g id="aaq" data-name="g86602">
+          <g id="aar" data-name="g86604">
+            <path id="aas" data-name="path86606" class="awf" d="M379.54,428.55l-1.41,.52-1.76-.87,1.76-1.39,1.41,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aat" data-name="g86610">
+    <g class="ayb">
+      <g id="aav" data-name="g86612">
+        <g id="aaw" data-name="g86618">
+          <g id="aax" data-name="g86620">
+            <path id="aay" data-name="path86622" class="awf" d="M364.9,403.02v-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aaz" data-name="g86626">
+    <g class="azh">
+      <g id="abb" data-name="g86628">
+        <g id="abc" data-name="g86634">
+          <g id="abd" data-name="g86636">
+            <path id="abe" data-name="path86638" class="awf" d="M368.96,417.26l.88,1.39,.88,3.47-4.06,.87-.88-1.74-.88-6.08,1.76,1.21,.53,2.61h.88l.88-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="abf" data-name="g86642">
+    <g class="ayx">
+      <g id="abh" data-name="g86644">
+        <g id="abi" data-name="g86650">
+          <g id="abj" data-name="g86652">
+            <path id="abk" data-name="path86654" class="awf" d="M370.72,422.99l-.53,.87-.88-.87h1.41"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="abl" data-name="g86658">
+    <g class="ayl">
+      <g id="abn" data-name="g86660">
+        <g id="abo" data-name="g86666">
+          <g id="abp" data-name="g86668">
+            <path id="abq" data-name="path86670" class="awf" d="M341.62,457.74l-.53-1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="abr" data-name="g86674">
+    <g class="ayw">
+      <g id="abt" data-name="g86676">
+        <g id="abu" data-name="g86682">
+          <g id="abv" data-name="g86684">
+            <path id="abw" data-name="path86686" class="awf" d="M346.91,464.69l-2.65-4.34,10.05,6.08,14.64,12.16-2.29,.87-8.29-5.73h-1.76l-5.29-4.34-4.41-4.69"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="abx" data-name="g86690">
+    <g class="aza">
+      <g id="abz" data-name="g86692">
+        <g id="aca" data-name="g86698">
+          <g id="acb" data-name="g86700">
+            <path id="acc" data-name="path86702" class="awf" d="M371.07,465.56l1.41,2.61-.88,1.21-2.29-1.74-.35-.35,1.23-.87-.88-.87h1.76"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="acd" data-name="g86706">
+    <g class="axr">
+      <g id="acf" data-name="g86708">
+        <g id="acg" data-name="g86714">
+          <g id="ach" data-name="g86716">
+            <path id="aci" data-name="path86718" class="awf" d="M364.55,465.56l1.23-2.61v.35l-1.23,2.26"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="acj" data-name="g86722">
+    <g class="axp">
+      <g id="acl" data-name="g86724">
+        <g id="acm" data-name="g86730">
+          <g id="acn" data-name="g86732">
+            <path id="aco" data-name="path86734" class="awf" d="M378.13,440.37l1.41-1.74,2.11,1.74-1.76,.87-1.76-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="acp" data-name="g86738">
+    <g class="axn">
+      <g id="acr" data-name="g86740">
+        <g id="acs" data-name="g86746">
+          <g id="act" data-name="g86748">
+            <path id="acu" data-name="path86750" class="awf" d="M385.18,449.4v-1.21l.88-.52,1.76,2.61-2.65-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="acv" data-name="g86754">
+    <g class="axq">
+      <g id="acx" data-name="g86756">
+        <g id="acy" data-name="g86762">
+          <g id="acz" data-name="g86764">
+            <path id="ada" data-name="path86766" class="awf" d="M386.94,453.74l2.29,1.74-.53,.87-1.76-.87v-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="adb" data-name="g86770">
+    <g class="axy">
+      <g id="add" data-name="g86772">
+        <g id="ade" data-name="g86778">
+          <g id="adf" data-name="g86780">
+            <path id="adg" data-name="path86782" class="awf" d="M376.89,473.37l-1.41-.52v-1.74l1.41-.35,1.23,.87-1.23,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="adh" data-name="g86786">
+    <g class="axl">
+      <g id="adj" data-name="g86788">
+        <g id="adk" data-name="g86794">
+          <g id="adl" data-name="g86796">
+            <path id="adm" data-name="path86798" class="awf" d="M391.88,461.21l-.53-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="adn" data-name="g87122">
+    <g class="axj">
+      <g id="adp" data-name="g87124">
+        <g id="adq" data-name="g87130">
+          <g id="adr" data-name="g87132">
+            <path id="ads" data-name="path87134" class="awf" d="M29.98,215.22l-.88-1.21,1.23-2.61-.35,3.82"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="adt" data-name="g87138">
+    <g class="axk">
+      <g id="adv" data-name="g87140">
+        <g id="adw" data-name="g87146">
+          <g id="adx" data-name="g87148">
+            <path id="ady" data-name="path87150" class="awf" d="M34.74,216.61l-1.23,.35-.53-.35,.88-2.26,.88,2.26"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="adz" data-name="g87170">
+    <g class="axg">
+      <g id="aeb" data-name="g87172">
+        <g id="aec" data-name="g87178">
+          <g id="aed" data-name="g87180">
+            <path id="aee" data-name="path87182" class="awf" d="M39.68,263.86v-4.69l.88,2.08-.88,2.61"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aef" data-name="g87314">
+    <g class="axe">
+      <g id="aeh" data-name="g87316">
+        <g id="aei" data-name="g87322">
+          <g id="aej" data-name="g87324">
+            <path id="aek" data-name="path87326" class="awf" d="M30.86,267.86l-.53,1.21-1.23-2.95,1.76,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ael" data-name="g87346">
+    <g class="axt">
+      <g id="aen" data-name="g87348">
+        <g id="aeo" data-name="g87354">
+          <g id="aep" data-name="g87356">
+            <path id="aeq" data-name="path87358" class="awf" d="M45.85,298.6l.88,3.13,1.76,.35-.53,.87-1.23-.87-1.41,.52v-1.39l-1.23-1.21v-1.39l.88,.87,.88-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aer" data-name="g87378">
+    <g class="axs">
+      <g id="aet" data-name="g87380">
+        <g id="aeu" data-name="g87386">
+          <g id="aev" data-name="g87388">
+            <path id="aew" data-name="path87390" class="awf" d="M47.08,306.08l-1.76-.52h.88l.88,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aex" data-name="g87394">
+    <g class="ayt">
+      <g id="aez" data-name="g87396">
+        <g id="afa" data-name="g87402">
+          <g id="afb" data-name="g87404">
+            <path id="afc" data-name="path87406" class="awf" d="M104.05,233.98l-.88,2.61-.53-1.39,1.41-1.21"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="afd" data-name="g87458">
+    <g class="ayn">
+      <g id="aff" data-name="g87460">
+        <g id="afg" data-name="g87466">
+          <g id="afh" data-name="g87468">
+            <path id="afi" data-name="path87470" class="awf" d="M71.43,303.82h3.53l-.53,1.74-1.23,.87-1.41-1.74-.35-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="afj" data-name="g87474">
+    <g class="aze">
+      <g id="afl" data-name="g87476">
+        <g id="afm" data-name="g87482">
+          <g id="afn" data-name="g87484">
+            <path id="afo" data-name="path87486" class="awf" d="M71.78,302.6l-2.65,.87,.53-.87h2.11"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="afp" data-name="g87490">
+    <g class="azd">
+      <g id="afr" data-name="g87492">
+        <g id="afs" data-name="g87498">
+          <g id="aft" data-name="g87500">
+            <path id="afu" data-name="path87502" class="awf" d="M71.07,296.7l-.18-.18,.18,.18"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="afv" data-name="g87506">
+    <g class="azc">
+      <g id="afx" data-name="g87508">
+        <g id="afy" data-name="g87514">
+          <g id="afz" data-name="g87516">
+            <path id="aga" data-name="path87518" class="awf" d="M112.87,302.6l-2.65-1.39,2.65,.52v.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="agb" data-name="g87522">
+    <g class="azb">
+      <g id="agd" data-name="g87524">
+        <g id="age" data-name="g87530">
+          <g id="agf" data-name="g87532">
+            <path id="agg" data-name="path87534" class="awf" d="M106.7,304.68l-.88,.52-.53-.87,.88-.87,.53,1.21"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="agh" data-name="g87538">
+    <g class="ayq">
+      <g id="agj" data-name="g87540">
+        <g id="agk" data-name="g87546">
+          <g id="agl" data-name="g87548">
+            <path id="agm" data-name="path87550" class="awf" d="M114.1,301.73l2.29,2.95h1.76l-1.76,.87h-2.29l-.88-3.47,.88-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="agn" data-name="g89090">
+    <g class="aym">
+      <g id="agp" data-name="g89092">
+        <g id="agq" data-name="g89098">
+          <g id="agr" data-name="g89100">
+            <path id="ags" data-name="path89102" class="awf" d="M21.16,421.6l-.88,.52,.88,3.82,1.23-1.74-.35,2.61-1.76-.35v2.61l3.88,.35h-5.64l-2.29-1.21,.53,.87h-1.41l-.35-1.74h-1.41l.88,2.08-2.11,.52,1.23,.87,1.41,2.61,1.23-.52-.88,2.26,.53,.87-1.76-1.39-.88,4.87-3.53-6.08v-1.74l-1.41-.87,.53-1.74-.88,.35-.88,3.13h-1.76v1.74l-.88-.52-1.76,1.74-.88,3.13v3.82h1.76v1.39l-4.41,2.61-4.94,8.16-5.29,3.13-8.47,2.08-2.65-.87-3.53,2.61-5.29,.87-3,2.26-4.41,.87-.88-.87-2.65,.35-.53-1.21-9.7,7.29-7.41,4-2.65,5.21-1.76,.35-.88-5.56-3.18,6.08,1.41,2.95-.53,4.87-1.76,2.08-1.23,4,7.05,14.24-1.76,4.34-1.41-3.82-.88,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="agt" data-name="g89106">
+    <g class="azi">
+      <g id="agv" data-name="g89108">
+        <g id="agw" data-name="g89114">
+          <g id="agx" data-name="g89116">
+            <path id="agy" data-name="path89118" class="awf" d="M111.11,308.68l11.46,1.74-5.29,.87-6.17-2.61"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="agz" data-name="g89122">
+    <g class="axh">
+      <g id="ahb" data-name="g89124">
+        <g id="ahc" data-name="g89130">
+          <g id="ahd" data-name="g89132">
+            <path id="ahe" data-name="path89134" class="awf" d="M87.3,341.17l1.23,.52-.35,2.08-.88-2.61"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ahf" data-name="g89154">
+    <g class="axf">
+      <g id="ahh" data-name="g89156">
+        <g id="ahi" data-name="g89162">
+          <g id="ahj" data-name="g89164">
+            <path id="ahk" data-name="path89166" class="awf" d="M103.17,348.98l-2.65,2.61-1.41-.87,.53-2.61h.88l-.88-.35v-2.26l3.53,3.47"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ahl" data-name="g89170">
+    <g class="ayy">
+      <g id="ahn" data-name="g89172">
+        <g id="aho" data-name="g89178">
+          <g id="ahp" data-name="g89180">
+            <path id="ahq" data-name="path89182" class="awf" d="M69.66,311.63l-2.65,.87-3.18-1.74,4.94-1.21,.88,2.08"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ahr" data-name="g89202">
+    <g class="ayz">
+      <g id="aht" data-name="g89204">
+        <g id="ahu" data-name="g89210">
+          <g id="ahv" data-name="g89212">
+            <path id="ahw" data-name="path89214" class="awf" d="M52.91,325.19l.35-.87,.88,.35-1.23,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ahx" data-name="g89234">
+    <g class="axi">
+      <g id="ahz" data-name="g89236">
+        <g id="aia" data-name="g89242">
+          <g id="aib" data-name="g89244">
+            <path id="aic" data-name="path89246" class="awf" d="M75.83,361.67l-3.53,1.74,1.76-2.08,1.76,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aid" data-name="g89250">
+    <g class="awt">
+      <g id="aif" data-name="g89252">
+        <g id="aig" data-name="g89258">
+          <g id="aih" data-name="g89260">
+            <path id="aii" data-name="path89262" class="awf" d="M53.79,353.33l.88-.35v1.21l-.88-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aij" data-name="g89266">
+    <g class="awr">
+      <g id="ail" data-name="g89268">
+        <g id="aim" data-name="g89274">
+          <g id="ain" data-name="g89276">
+            <path id="aio" data-name="path89278" class="awf" d="M62.96,359.06l1.76,.52-.88,1.74-1.23-1.39,.35-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aip" data-name="g89314">
+    <g class="aws">
+      <g id="air" data-name="g89316">
+        <g id="ais" data-name="g89322">
+          <g id="ait" data-name="g89324">
+            <path id="aiu" data-name="path89326" class="awf" d="M119.04,392.94l-2.65,1.39,1.76,.87-1.41,1.74-2.11-2.26,.88-.87-2.65,1.74-.53-.87,2.29-1.74-.88-.35,.88-1.39-2.65,2.26h.35l-3,1.21,.35,.52-.88,.35-3.88-2.61-1.41,.87h-3l-.53-1.21-2.11-1.74-2.65,1.21v-.87l-4.06-1.74-1.23-1.74-1.76,1.39-2.65-3.13-.88,1.39-.88-1.39,.35,2.26-2.11-1.74h-.88l1.76,2.61,3-.52,2.29,1.74-.53,3.13,.88,.87-3,1.74v-.87l-.88-.87-1.76,1.21-5.29-.35-.88-1.74-.53,1.74-1.76-.87v1.74h-1.23l.88,2.08-3.18-1.74v2.26l-.88-.52-3,3.13,1.76,2.95-2.65,1.39-.88-.52-1.76,4.87h-1.76l-.88,2.61,2.65,3.47h2.65l-3.18,1.21,.88,2.26-3-2.61-1.76,2.61,.35-1.74-3.88-1.74h-2.65l.35,2.08-1.76-.35-.35,.87,.88,2.61-1.41-.87-.88,1.74,1.76-6.95-6.52-6.08-2.65,.35-1.41-2.08-2.65,3.82-1.23-.87,.88-1.21-3.18,1.74v-1.74l-.35,.87v-.87h-.88l.35,.87h-.35l.88,.87-.88,2.95-1.76,.52v-.87h-.88v-1.74h-.88v2.08l-1.76,.52v-.52l-1.59,1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aiv" data-name="g89330">
+    <g class="awq">
+      <g id="aix" data-name="g89332">
+        <g id="aiy" data-name="g89338">
+          <g id="aiz" data-name="g89340">
+            <path id="aja" data-name="path89342" class="awf" d="M87.3,387.73l-.88-2.61,.88-.35v2.95"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ajb" data-name="g89346">
+    <g class="axw">
+      <g id="ajd" data-name="g89348">
+        <g id="aje" data-name="g89354">
+          <g id="ajf" data-name="g89356">
+            <path id="ajg" data-name="path89358" class="awf" d="M119.93,392.59l-.88,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ajh" data-name="g89362">
+    <g class="ayd">
+      <g id="ajj" data-name="g89364">
+        <g id="ajk" data-name="g89370">
+          <g id="ajl" data-name="g89372">
+            <path id="ajm" data-name="path89374" class="awf" d="M45.32,307.29l2.29-.35,3.53,2.61-5.29,.35-1.41-.87,.88-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ajn" data-name="g89410">
+    <g class="ayr">
+      <g id="ajp" data-name="g89412">
+        <g id="ajq" data-name="g89418">
+          <g id="ajr" data-name="g89420">
+            <path id="ajs" data-name="path89422" class="awf" d="M50.26,324.66l1.76,.52-1.76,.87-1.41-.52,1.41-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ajt" data-name="g89682">
+    <g class="ays">
+      <g id="ajv" data-name="g89684">
+        <g id="ajw" data-name="g89690">
+          <g id="ajx" data-name="g89692">
+            <path id="ajy" data-name="path89694" class="awf" d="M47.97,361.32l2.65,.87-.88,.87-1.76-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ajz" data-name="g89730">
+    <g class="awy">
+      <g id="akb" data-name="g89732">
+        <g id="akc" data-name="g89738">
+          <g id="akd" data-name="g89740">
+            <path id="ake" data-name="path89742" class="awf" d="M26.63,415.52h-.18l2.11,3.13-3.53-.87v2.61h1.41v1.74l-1.76-.52-1.76-1.74-.88,1.39-.88,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="akf" data-name="g89746">
+    <g class="awv">
+      <g id="akh" data-name="g89748">
+        <g id="aki" data-name="g89754">
+          <g id="akj" data-name="g89756">
+            <path id="akk" data-name="path89758" class="awf" d="M21.16,421.6l.88-.87-.53-.35-.35,1.21"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="akl" data-name="g89762">
+    <g class="awx">
+      <g id="akn" data-name="g89764">
+        <g id="ako" data-name="g89770">
+          <g id="akp" data-name="g89772">
+            <path id="akq" data-name="path89774" class="awf" d="M26.45,413.44l.18,2.08"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="akr" data-name="g89778">
+    <g class="aww">
+      <g id="akt" data-name="g89780">
+        <g id="aku" data-name="g89786">
+          <g id="akv" data-name="g89788">
+            <path id="akw" data-name="path89790" class="awf" d="M117.28,407.36l-.53,.87v-1.39l.53,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="akx" data-name="g89794">
+    <g class="awu">
+      <g id="akz" data-name="g89796">
+        <g id="ala" data-name="g89802">
+          <g id="alb" data-name="g89804">
+            <path id="alc" data-name="path89806" class="awf" d="M-70.73,510.73l-.35,1.74-1.41-.87,7.05,9.55,1.41,7.29,5.64,9.21,1.41,9.03,5.64,15.29v8.16l-.35-1.74-.53,.52,.88,6.08-4.76,2.61-.88-.87v6.43l13.23,7.47,11.46,.35-1.41-.35h2.65l7.05-5.21,1.76,.35,1.41-.35,2.11-3.47,9.88-2.26H.88l.35,1.74,7.59-1.74,.88,1.39,3-.52,3.53-3.47,2.65-4.69,10.58-4.87,3.53-2.08h11.11l13.58-5.21,14.64-.87,3-.87,8.47,4.69,4.76-.35,4.94,2.08,2.65-.87,1.76,2.61-.53,1.39,3.18-.52v2.61l-.88-.87-.53,2.26,2.29,2.08,2.65,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ald" data-name="g89810">
+    <g class="axb">
+      <g id="alf" data-name="g89812">
+        <g id="alg" data-name="g89818">
+          <g id="alh" data-name="g89820">
+            <path id="ali" data-name="path89822" class="awf" d="M104.05,574.14l-.53-.87,.53,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="alj" data-name="g89826">
+    <g class="axd">
+      <g id="all" data-name="g89828">
+        <g id="alm" data-name="g89834">
+          <g id="aln" data-name="g89836">
+            <path id="alo" data-name="path89838" class="awf" d="M104.05,574.14l1.76,3.82,2.65,2.26,2.11,6.43-1.76-1.74-.88,1.39,2.65,1.21,1.41,2.26,1.76-.52,.88,.87v-2.08l-.88,.35v-.35l6.17-7.82,4.76-1.74,4.41-6.6,.53-2.08v-1.74l2.11,4.69-1.76,1.39,.53,1.74-3.18,7.29-.35,6.08h-3.53l-1.41,3.13,7.59-.87,2.65-9.21,3.53,5.73-.88,5.21-2.65,2.61,2.65,.35,7.05-2.95-.53,2.08-.35-.35-.88,.35,3.53,3.47-4.41-3.47,6.17,6.6,1.23,3.47-1.23,3.82,1.23,2.61,2.29,1.39,2.65,3.82,4.41,1.39,3,2.08,.53,1.39,3.53-1.39,3,.87h2.29l8.82,4.34,3.53-2.95,5.29-2.61,.35-.87-2.65-.52,4.41-2.08,1.76,2.61-1.23,1.74-1.76,.35,.88,1.39,3.53-1.91"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="alp" data-name="g89842">
+    <g class="axc">
+      <g id="alr" data-name="g89844">
+        <g id="als" data-name="g89850">
+          <g id="alt" data-name="g89852">
+            <path id="alu" data-name="path89854" class="awf" d="M119.93,597.07l8.29-1.74,1.41,2.26,1.23-.87,1.41,.87-3.18,.87-2.11,1.74-1.76-.87-4.41,.87-1.41-1.74,.53-1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ama" data-name="g89938">
+    <g class="ayu">
+      <g id="amc" data-name="g89940">
+        <g id="amd" data-name="g89946">
+          <g id="ame" data-name="g89948">
+            <path id="amf" data-name="path89950" class="awf" d="M372.83,482.06l-.35-1.39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="amg" data-name="g89954">
+    <g class="ayv">
+      <g id="ami" data-name="g89956">
+        <g id="amj" data-name="g89962">
+          <g id="amk" data-name="g89964">
+            <path id="aml" data-name="path89966" class="awf" d="M256.61,499.43l.88,2.61-2.65,6.43-.88-1.74,.88-2.08-.53-.87,1.76-2.26-.88-1.21,1.41-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="amm" data-name="g89970">
+    <g class="ayp">
+      <g id="amo" data-name="g89972">
+        <g id="amp" data-name="g89978">
+          <g id="amq" data-name="g89980">
+            <path id="amr" data-name="path89982" class="awf" d="M239.86,489.01l.35,1.74h-.88l-1.23-2.26,1.76,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ams" data-name="g89986">
+    <g class="ayo">
+      <g id="amu" data-name="g89988">
+        <g id="amv" data-name="g89994">
+          <g id="amw" data-name="g89996">
+            <path id="amx" data-name="path89998" class="awf" d="M258.73,522.89l-1.23,2.61,.35-3.13,.88,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="amy" data-name="g90002">
+    <g class="axo">
+      <g id="ana" data-name="g90004">
+        <g id="anb" data-name="g90010">
+          <g id="anc" data-name="g90012">
+            <path id="and" data-name="path90014" class="awf" d="M191.36,620.86l.35,1.05,.88-.52-1.05-.69"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ane" data-name="g90018">
+    <g class="axm">
+      <g id="ang" data-name="g90020">
+        <g id="anh" data-name="g90026">
+          <g id="ani" data-name="g90028">
+            <path id="anj" data-name="path90030" class="awf" d="M191.36,620.86v-.35l.18,.18"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ank" data-name="g90034">
+    <g class="ayg">
+      <g id="anm" data-name="g90036">
+        <g id="ann" data-name="g90042">
+          <g id="ano" data-name="g90044">
+            <path id="anp" data-name="path90046" class="awf" d="M191.53,620.7l-.18,.17"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="anq" data-name="g90050">
+    <g class="aye">
+      <g id="ans" data-name="g90052">
+        <g id="ant" data-name="g90058">
+          <g id="anu" data-name="g90060">
+            <path id="anv" data-name="path90062" class="awf" d="M191.71,623.12l-2.11-.35,1.76-.87,.35,1.21"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="anw" data-name="g90066">
+    <g class="ayf">
+      <g id="any" data-name="g90068">
+        <g id="anz" data-name="g90074">
+          <g id="aoa" data-name="g90076">
+            <path id="aob" data-name="path90078" class="awf" d="M179.36,635.81l.88-3.13,1.41,.87v3.47l-1.76,.52-.53-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aoc" data-name="g90082">
+    <g class="ayh">
+      <g id="aoe" data-name="g90084">
+        <g id="aof" data-name="g90090">
+          <g id="aog" data-name="g90092">
+            <path id="aoh" data-name="path90094" class="awf" d="M188.53,643.63h-.7l.18-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aoi" data-name="g90098">
+    <g class="ayi">
+      <g id="aok" data-name="g90100">
+        <g id="aol" data-name="g90106">
+          <g id="aom" data-name="g90108">
+            <path id="aon" data-name="path90110" class="awf" d="M188.01,643.28l.52,.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aoo" data-name="g90114">
+    <g class="ayj">
+      <g id="aoq" data-name="g90116">
+        <g id="aor" data-name="g90122">
+          <g id="aos" data-name="g90124">
+            <path id="aot" data-name="path90126" class="awf" d="M188.01,643.28l.17-.52,.88,.87h-.53"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="ayk">
+    <g id="aov" data-name="g90132">
+      <g id="aow" data-name="g90138">
+        <g id="aox" data-name="g90140">
+          <path id="aoy" data-name="path90142" class="awf" d="M188.53,643.63l10.76,4.34h5.29l-.88-.87,9.7-3.47,2.11,1.74v8.69l.88,4-1.76-1.39-1.76,2.61-.35,5.21h.88v3.47h-1.76l-.88-.87,1.76-1.21-2.65-1.74-.53,1.74-1.76-2.26v2.61l-.88,2.26-1.76-1.39,.88,1.39-.88,.87-.35,2.08-3.53-.87-4.06,.52,.53-1.74,.88,.35,.35-.87-2.11-1.21-.88,1.21-4.94-6.95-.35-3.82,2.11,2.95,.53-.87-2.29-2.08v-1.74l-3.88-5.73-1.41-4.34,.88-3.47,1.59,.52"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aoz" data-name="g90146">
+    <g class="azf">
+      <g id="apb" data-name="g90148">
+        <g id="apc" data-name="g90154">
+          <g id="apd" data-name="g90156">
+            <path id="ape" data-name="path90158" class="awf" d="M213.75,639.28l-2.11-3.13v-.87l1.23-1.21,2.29,2.08,.88,2.61-2.29,.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="apf" data-name="g90162">
+    <g class="azg">
+      <g id="aph" data-name="g90164">
+        <g id="api" data-name="g90170">
+          <g id="apj" data-name="g90172">
+            <path id="apk" data-name="path90174" class="awf" d="M216.05,639.63l1.23,1.39-1.23,.35-2.65-1.21,2.65-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="apl" data-name="g90178">
+    <g class="axv">
+      <g id="apn" data-name="g90180">
+        <g id="apo" data-name="g90186">
+          <g id="app" data-name="g90188">
+            <path id="apq" data-name="path90190" class="awf" d="M215.17,641.37l-.53,.87-.35-.35,.88-.52"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="apr" data-name="g90194">
+    <g class="axx">
+      <g id="apt" data-name="g90196">
+        <g id="apu" data-name="g90202">
+          <g id="apv" data-name="g90204">
+            <path id="apw" data-name="path90206" class="awf" d="M213.4,663.26l.88-1.39,.35,.52-1.23,.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="apx" data-name="g90210">
+    <g class="axu">
+      <g id="apz" data-name="g90212">
+        <g id="aqa" data-name="g90218">
+          <g id="aqb" data-name="g90220">
+            <path id="aqc" data-name="path90222" class="awf" d="M205.82,669.68l.88,.52,1.41-4v1.74l-.53,2.61h-1.23l-.53-.87"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aqd" data-name="g90226">
+    <g class="awz">
+      <g id="aqf" data-name="g90228">
+        <g id="aqg" data-name="g90234">
+          <g id="aqh" data-name="g90236">
+            <path id="aqi" data-name="path90238" class="awf" d="M374.6,702.69h1.76l1.76,1.39-1.76,.35,1.41,.87,.88-.87v1.74l-4.41,.87-1.41,1.39,2.29-4-.53-1.74"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="aql" data-name="g90274">
+    <g class="axa">
+      <g id="aqn" data-name="g90276">
+        <g id="aqo" data-name="g90282">
+          <g id="aqp" data-name="g90284">
+            <path id="aqq" data-name="path90286" class="awf" d="M407.76,239.54l-1.41-.35"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path id="aqr" data-name="path26138" d="M389.15,580.26c-.89,0-1.83,.25-2.82,.76v-.73l-1.52,.18v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="aqs" data-name="path26136" d="M379.71,580.26c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33s-1.38,.51-1.83,.94c-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.07-.83-.22-.18-.15-.27-.38-.27-.68,0-.49,.32-.86,.95-1.13s1.47-.42,2.49-.47h0Z"/>
+  <path id="aqt" data-name="path26134" d="M367.51,580.26c-.55,0-1.05,.09-1.5,.28-.44,.19-.78,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.07,.35,1.32,.55,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.93-.42-1.6-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1.01-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="aqu" data-name="path26132" d="M360.84,576.82v11.26h1.62v-11.26h-1.62Z"/>
+  <path id="aqv" data-name="path26130" d="M400.45,575.95l-1.52,.17v4.36c-.61-.15-1.17-.23-1.67-.23-.76,0-1.45,.17-2.05,.5-.6,.32-1.08,.8-1.43,1.44-.34,.64-.51,1.4-.51,2.28,0,.78,.12,1.45,.37,2.03,.26,.57,.63,1.01,1.11,1.32,.48,.3,1.06,.45,1.75,.45,.38,0,.78-.07,1.22-.21,.44-.13,.86-.31,1.29-.56l.07,.56h1.38v-12.13Zm-3.07,5.49c.51,0,1.02,.09,1.55,.26v4.73c-.66,.38-1.33,.58-2.01,.58-.65,0-1.15-.21-1.5-.63-.35-.42-.53-1.06-.53-1.93,0-.67,.11-1.23,.32-1.68,.22-.45,.52-.78,.88-.99,.38-.22,.81-.33,1.29-.33Z"/>
+  <path id="aqw" data-name="path26128" d="M374.08,575.95l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="aqx" data-name="path26112" d="M392.19,559.41c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.45,.41,2.07,.27,.6,.68,1.08,1.23,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.13-1.45-.4-2.05s-.68-1.08-1.24-1.43c-.55-.36-1.24-.54-2.06-.54h0Zm-.11,1.22c.74,0,1.29,.25,1.66,.76,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.28,2.81-.75,0-1.32-.26-1.69-.77s-.56-1.19-.56-2.05,.17-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75Z"/>
+  <path id="aqy" data-name="path26110" d="M380.8,559.41c-.44,0-.85,.1-1.23,.3-.39,.19-.73,.46-1.02,.83v-1.1l-1.52,.16v7.63h1.52v-5.18c.29-.45,.6-.76,.92-.92,.32-.16,.67-.24,1.04-.24,.33,0,.69,.07,1.09,.21l.28-1.55c-.19-.05-.36-.08-.53-.1-.16-.02-.35-.03-.55-.03h0Z"/>
+  <path id="aqz" data-name="path26108" d="M371.47,559.41c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.45,.41,2.07,.27,.6,.68,1.08,1.23,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05-.27-.6-.68-1.08-1.23-1.43-.55-.36-1.24-.54-2.06-.54Zm-.11,1.22c.74,0,1.29,.25,1.66,.76,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.27,2.81-.75,0-1.32-.26-1.69-.77-.38-.51-.56-1.19-.56-2.05s.17-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75Z"/>
+  <path id="ara" data-name="path26106" d="M356.02,555.97v11.26h1.55v-8.89c.07,.15,.15,.3,.23,.45,.09,.15,.2,.31,.32,.49,.13,.17,.2,.28,.23,.33l.23,.33,5.03,7.3h1.8v-11.26h-1.55v8.98c-.07-.16-.16-.33-.27-.5-.11-.19-.24-.38-.39-.59-.15-.22-.25-.36-.3-.43l-5.17-7.45h-1.71Z"/>
+  <path id="arb" data-name="path26104" d="M386.67,555.17c-.56,0-1.06,.12-1.48,.36-.41,.24-.73,.59-.95,1.03s-.34,.95-.34,1.53v1.53h-1.41v1.18h1.41v6.43h1.52v-6.43h2.24l.16-1.18h-2.4v-1.57c0-.52,.1-.92,.32-1.2,.22-.29,.56-.43,1.01-.43s.89,.07,1.32,.22l.39-1.18c-.54-.2-1.13-.3-1.78-.3h0Z"/>
+  <path id="arc" data-name="path26102" d="M403.25,555.1l-1.52,.17v11.95h1.52v-3.98l3.26,3.98h1.85v-.1l-3.37-3.96,3.21-3.44v-.1h-1.67l-3.28,3.51v-8.03Z"/>
+  <path id="ard" data-name="path26100" d="M399.27,555.1l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="are" data-name="path26026" d="M320.13,490.27v.1l2.54,7.5h1.43l1.41-4.65c.19-.66,.3-1.12,.35-1.37,.06,.27,.18,.73,.37,1.37l1.41,4.65h1.52l2.33-7.5v-.1h-1.48l-1.29,4.78c-.08,.34-.17,.75-.25,1.23-.11-.5-.21-.91-.3-1.23l-1.41-4.78h-1.66l-1.41,4.78c-.09,.3-.18,.66-.25,1.06-.12-.51-.21-.86-.26-1.06l-1.39-4.78h-1.66Z"/>
+  <path id="arf" data-name="path26024" d="M396.27,490.1l-1.52,.17v7.61h1.52v-7.78Z"/>
+  <path id="arg" data-name="path26022" d="M401.9,490.06c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.07,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.37v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.13-.61-2.03-.61h0Zm1.2,4.26v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13,.63-.27,1.46-.42,2.49-.47Z"/>
+  <path id="arh" data-name="path26020" d="M390.01,490.06c-.89,0-1.83,.26-2.82,.77v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="ari" data-name="path26018" d="M380.12,490.06c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.46,.41,2.07,.27,.6,.68,1.08,1.23,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05-.27-.6-.68-1.08-1.23-1.43-.55-.36-1.24-.54-2.06-.54h0Zm-.11,1.22c.74,0,1.29,.25,1.66,.76,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.28,2.81-.75,0-1.32-.25-1.69-.76s-.56-1.19-.56-2.05,.17-1.54,.53-2.03c.36-.5,.96-.75,1.78-.75Z"/>
+  <path id="arj" data-name="path26016" d="M362.64,490.06c-.81,0-1.5,.19-2.06,.57-.55,.37-.97,.87-1.25,1.5s-.42,1.32-.42,2.08c0,1.34,.33,2.33,1,2.95,.68,.61,1.59,.92,2.72,.92,1.06,0,2.07-.31,3.03-.92l-.58-1.06c-.42,.24-.81,.42-1.16,.54-.34,.12-.75,.18-1.22,.18-.66,0-1.2-.2-1.62-.59-.41-.39-.62-1.02-.63-1.89h5.38l.04-1.11c0-.61-.12-1.16-.37-1.63-.25-.47-.61-.85-1.09-1.11-.48-.28-1.06-.42-1.75-.42h0Zm0,1.17c.55,0,.98,.16,1.27,.49,.31,.32,.46,.81,.46,1.46v.07h-3.84c.11-.63,.33-1.12,.67-1.48,.35-.36,.83-.54,1.45-.54h0Z"/>
+  <path id="ark" data-name="path26014" d="M350.44,490.06c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.26v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.27-.38-.27-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="arl" data-name="path26012" d="M316.27,490.06c-.81,0-1.5,.19-2.06,.57-.55,.37-.97,.87-1.25,1.5s-.42,1.32-.42,2.08c0,1.34,.33,2.33,1,2.95,.68,.61,1.59,.92,2.72,.92,1.06,0,2.07-.31,3.03-.92l-.58-1.06c-.42,.24-.81,.42-1.16,.54-.34,.12-.75,.18-1.22,.18-.66,0-1.2-.2-1.62-.59-.41-.39-.62-1.02-.63-1.89h5.38l.04-1.11c0-.61-.12-1.16-.37-1.63-.25-.47-.61-.85-1.09-1.11-.48-.28-1.06-.42-1.75-.42h0Zm0,1.17c.55,0,.98,.16,1.27,.49,.31,.32,.46,.81,.46,1.46v.07h-3.84c.11-.63,.33-1.12,.67-1.48,.35-.36,.83-.54,1.45-.54h0Z"/>
+  <path id="arm" data-name="path26010" d="M301.09,486.62v11.26h1.55v-8.89c.07,.15,.15,.3,.23,.45,.09,.15,.2,.31,.32,.49,.13,.17,.21,.28,.23,.33l.23,.33,5.03,7.3h1.8v-11.26h-1.55v8.98c-.07-.16-.16-.33-.26-.5-.11-.19-.24-.38-.39-.59-.15-.22-.25-.37-.3-.44l-5.17-7.45h-1.71Z"/>
+  <path id="arn" data-name="path26008" d="M395.5,486.59c-.19,0-.37,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.05,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.34,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="aro" data-name="path26006" d="M341.97,486.41c-.94,0-1.81,.2-2.59,.61-.79,.39-1.43,1.03-1.92,1.91-.48,.87-.72,1.99-.72,3.35,0,1.18,.19,2.21,.56,3.07,.39,.87,.98,1.54,1.76,2.02,.79,.47,1.77,.71,2.94,.71,.72,0,1.37-.09,1.96-.28,.6-.19,1.21-.46,1.83-.82l-.65-1.16c-.48,.28-.96,.49-1.45,.64-.48,.15-1.02,.23-1.62,.23-1.19,0-2.09-.4-2.7-1.2-.61-.8-.92-1.9-.92-3.3s.29-2.43,.86-3.21c.59-.79,1.49-1.18,2.72-1.18,1.05,0,2.03,.28,2.95,.85l.7-1.22c-.55-.34-1.13-.59-1.75-.76-.6-.17-1.26-.26-1.97-.26h0Z"/>
+  <path id="arp" data-name="path26004" d="M374.26,485.75l-1.52,.17v4.36c-.61-.15-1.17-.23-1.68-.23-.76,0-1.45,.17-2.05,.5-.6,.32-1.08,.81-1.43,1.44-.34,.64-.51,1.39-.51,2.28,0,.78,.12,1.45,.37,2.03,.26,.57,.63,1.01,1.11,1.32,.48,.3,1.06,.45,1.75,.45,.38,0,.78-.07,1.22-.21,.44-.13,.86-.31,1.29-.55l.07,.55h1.38v-12.13Zm-3.07,5.49c.51,0,1.02,.09,1.55,.26v4.73c-.66,.38-1.33,.57-2.01,.57-.65,0-1.15-.21-1.5-.63s-.53-1.06-.53-1.93c0-.67,.11-1.23,.32-1.68,.22-.45,.52-.78,.88-.99,.38-.22,.81-.33,1.29-.33Z"/>
+  <path id="arq" data-name="path26002" d="M357.05,485.75l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="arr" data-name="path25986" d="M546.43,471.61c-1.23,0-2.42,.38-3.55,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.77,.13-2.54,.33-.76,.2-1.38,.51-1.84,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61Zm1.2,4.26v1.81c-.76,.46-1.54,.69-2.34,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13,.63-.27,1.46-.42,2.49-.47Z"/>
+  <path id="ars" data-name="path25984" d="M529.74,471.61c-.89,0-1.83,.26-2.82,.77v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="art" data-name="path25982" d="M519.85,471.61c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.13,1.45,.4,2.07,.27,.6,.68,1.08,1.24,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05s-.68-1.08-1.23-1.43c-.55-.36-1.24-.54-2.06-.54Zm-.11,1.22c.74,0,1.29,.26,1.66,.77,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.27,2.81-.75,0-1.32-.25-1.69-.76s-.56-1.19-.56-2.05,.18-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75h0Z"/>
+  <path id="aru" data-name="path25980" d="M541.28,470.62l-2.63,1.08c-.35-.06-.69-.09-1.02-.09-.65,0-1.24,.09-1.76,.28-.53,.19-.96,.49-1.29,.9-.32,.42-.48,.94-.48,1.58,0,.5,.11,.94,.32,1.32,.21,.38,.53,.69,.95,.92-.29,.21-.51,.41-.65,.61-.13,.2-.19,.41-.19,.64,0,.38,.17,.7,.53,.94-.41,.25-.73,.53-.95,.82-.21,.29-.32,.65-.32,1.09,0,.72,.34,1.25,1.02,1.61s1.59,.54,2.73,.54c.89,0,1.66-.11,2.31-.33,.65-.21,1.14-.51,1.48-.92,.35-.39,.53-.86,.53-1.39,0-.44-.11-.8-.34-1.08s-.56-.49-1-.64c-.44-.15-1-.26-1.69-.31l-1.25-.1c-.39-.03-.69-.07-.9-.1-.21-.05-.36-.1-.46-.17-.09-.08-.14-.19-.14-.31,0-.2,.07-.38,.23-.54,.33,.08,.72,.12,1.18,.12,1.02,0,1.86-.22,2.52-.64,.67-.43,1.01-1.11,1.01-2.05,0-.41-.08-.78-.25-1.13-.16-.36-.42-.67-.76-.92l1.8-.5-.53-1.22Zm-3.72,2.1c.62,0,1.1,.15,1.43,.45,.34,.3,.51,.71,.51,1.23,0,1.04-.63,1.56-1.9,1.56-.68,0-1.18-.15-1.5-.44-.32-.29-.48-.68-.48-1.18s.15-.88,.46-1.18c.32-.3,.81-.45,1.48-.45Zm-1.62,6.45c.32,.07,.66,.12,1.04,.16l1.25,.1c.48,.05,.87,.11,1.16,.18,.29,.08,.51,.19,.65,.31,.14,.14,.21,.31,.21,.52,0,.45-.26,.78-.78,.97-.51,.2-1.14,.3-1.9,.3-.81,0-1.4-.1-1.78-.31-.38-.2-.57-.5-.57-.9,0-.23,.06-.46,.18-.69,.13-.22,.3-.43,.53-.63Z"/>
+  <path id="arv" data-name="path25978" d="M507.22,468.17v1.39h3.97v9.87h1.62v-9.87h3.95v-1.39h-9.54Z"/>
+  <path id="arw" data-name="path25962" d="M475.07,461.84l-1.52,.18v7.61h1.52v-7.78Z"/>
+  <path id="arx" data-name="path25960" d="M471.08,461.84l-1.52,.18v8.39c0,.46-.09,.81-.28,1.03-.18,.23-.46,.35-.86,.35-.18,0-.35-.02-.51-.05-.16-.03-.35-.09-.56-.18l-.42,1.18c.53,.22,1.09,.33,1.68,.33,.8,0,1.41-.23,1.83-.68,.44-.45,.65-1.12,.65-2.02v-8.53Z"/>
+  <path id="ary" data-name="path25958" d="M467.1,461.84l-1.52,.18v7.61h1.52v-7.78Z"/>
+  <path id="arz" data-name="path25940" d="M456.69,458.37v11.26h1.62v-4.76h4.64l.18-1.35h-4.81v-3.79h5.52v-1.35h-7.14Z"/>
+  <path id="asa" data-name="path25938" d="M474.29,458.33c-.19,0-.36,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.05,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.33,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="asb" data-name="path25936" d="M470.33,458.33c-.19,0-.36,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.05,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.33,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="asc" data-name="path25934" d="M466.32,458.33c-.19,0-.36,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.05,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.33,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="asd" data-name="path25898" d="M433.41,420.74l-1.52,.17v5.41c0,.81,.22,1.42,.67,1.82,.46,.39,1.05,.59,1.76,.59,.93,0,1.85-.26,2.75-.78l.09,.58h1.36v-7.78l-1.52,.17v5.87c-.85,.43-1.55,.64-2.12,.64-.38,0-.67-.04-.88-.14-.21-.1-.37-.27-.46-.49-.09-.23-.14-.54-.14-.92v-5.14Z"/>
+  <path id="ase" data-name="path25896" d="M418.01,420.74l-1.52,.17v5.41c0,.81,.23,1.42,.67,1.82,.46,.39,1.04,.59,1.76,.59,.93,0,1.85-.26,2.75-.78l.09,.58h1.36v-7.78l-1.52,.17v5.87c-.85,.43-1.55,.64-2.12,.64-.38,0-.67-.04-.88-.14-.21-.1-.37-.27-.46-.49-.09-.23-.14-.54-.14-.92v-5.14Z"/>
+  <path id="asf" data-name="path25894" d="M411.84,420.71c-.89,0-1.83,.25-2.82,.76v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.41c0-1.61-.79-2.41-2.36-2.41h0Z"/>
+  <path id="asg" data-name="path25892" d="M402.41,420.71c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.95-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13,.63-.27,1.47-.42,2.49-.47Z"/>
+  <path id="ash" data-name="path25890" d="M677.4,420.54c-.55,0-1.05,.09-1.5,.28-.44,.19-.78,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,1,.61,1.82,.82l.55,.14c.63,.16,1.07,.35,1.32,.56,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.81,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="asi" data-name="path25888" d="M661.26,420.54c-.89,0-1.83,.25-2.82,.76v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.41-2.36-2.41h0Z"/>
+  <path id="asj" data-name="path25886" d="M651.83,420.54c-1.23,0-2.42,.38-3.55,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.77,.13-2.54,.33s-1.38,.51-1.84,.94c-.46,.42-.69,.95-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.54,.69-2.34,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="ask" data-name="path25884" d="M639.62,420.54c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.08,.35,1.32,.56,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.83-.47,1.06-.81,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1.01-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1.01-.49-1.5-.61-.48-.13-.99-.19-1.52-.19Z"/>
+  <path id="asl" data-name="path25882" d="M427.7,418.96l-1.52,.24v1.72h-1.55v1.18h1.55v4.17c0,.82,.21,1.44,.64,1.86,.42,.41,1,.61,1.73,.61,.68,0,1.33-.16,1.94-.49l-.42-1.06c-.24,.1-.45,.18-.65,.23-.2,.05-.41,.07-.62,.07-.73,0-1.09-.49-1.09-1.46v-3.93h2.45l.16-1.18h-2.61v-1.96Z"/>
+  <path id="asm" data-name="path25880" d="M388.74,417.27v.1l4.2,11.15h1.98l4.21-11.15v-.1h-1.62l-3.53,9.73-3.54-9.73h-1.69Z"/>
+  <path id="asn" data-name="path25878" d="M632.96,417.1v11.26h1.62v-11.26h-1.62Z"/>
+  <path id="aso" data-name="path25876" d="M672.57,416.23l-1.52,.18v4.36c-.61-.15-1.17-.22-1.68-.22-.76,0-1.45,.17-2.05,.5-.6,.32-1.08,.81-1.43,1.44-.34,.64-.51,1.39-.51,2.28,0,.78,.12,1.45,.37,2.03,.26,.57,.63,1.01,1.11,1.32,.48,.3,1.06,.45,1.75,.45,.38,0,.78-.07,1.22-.21,.44-.13,.86-.31,1.29-.55l.07,.55h1.37v-12.13Zm-3.07,5.49c.51,0,1.02,.09,1.55,.26v4.73c-.66,.38-1.33,.57-2.01,.57-.65,0-1.15-.21-1.5-.63s-.53-1.06-.53-1.93c0-.67,.1-1.23,.32-1.68,.22-.45,.52-.78,.88-.99,.38-.22,.81-.33,1.29-.33Z"/>
+  <path id="asp" data-name="path25874" d="M646.2,416.23l-1.52,.18v11.95h1.52v-12.13Z"/>
+  <path id="asq" data-name="path25872" d="M661.98,399.7c-.76,0-1.45,.14-2.05,.41-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.13,1.45,.4,2.07,.27,.6,.68,1.08,1.24,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05s-.68-1.08-1.23-1.43c-.55-.36-1.24-.54-2.06-.54h0Zm-.11,1.21c.74,0,1.29,.26,1.66,.77,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.27,2.81-.75,0-1.32-.26-1.69-.77-.38-.51-.56-1.19-.56-2.05s.18-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75h0Z"/>
+  <path id="asr" data-name="path25870" d="M653.04,399.7c-.76,0-1.45,.14-2.05,.41-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.45,.41,2.07,.27,.6,.68,1.08,1.23,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.13-1.45-.4-2.05-.27-.6-.68-1.08-1.24-1.43-.55-.36-1.24-.54-2.06-.54h0Zm-.11,1.21c.74,0,1.29,.26,1.66,.77,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.28,2.81-.75,0-1.32-.26-1.69-.77s-.56-1.19-.56-2.05,.17-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75h0Z"/>
+  <path id="ass" data-name="path25868" d="M644.34,396.05c-.94,0-1.81,.2-2.59,.61-.79,.39-1.43,1.03-1.92,1.91-.48,.87-.72,1.98-.72,3.35,0,1.18,.19,2.21,.56,3.08,.39,.87,.98,1.54,1.76,2.02,.79,.47,1.77,.71,2.94,.71,.72,0,1.37-.09,1.96-.28,.6-.19,1.21-.46,1.83-.82l-.65-1.16c-.48,.28-.96,.49-1.45,.64-.48,.15-1.02,.22-1.62,.22-1.19,0-2.09-.4-2.7-1.2s-.92-1.9-.92-3.3,.29-2.43,.86-3.21c.59-.79,1.49-1.18,2.72-1.18,1.05,0,2.03,.29,2.94,.85l.71-1.22c-.55-.34-1.13-.59-1.75-.77-.6-.17-1.26-.26-1.97-.26h0Z"/>
+  <path id="ast" data-name="path25866" d="M669.05,395.39l-1.52,.18v11.95h1.52v-3.98l3.26,3.98h1.85v-.1l-3.37-3.96,3.21-3.44v-.1h-1.68l-3.28,3.51v-8.03Z"/>
+  <path id="asu" data-name="path25864" d="M593.51,394.75c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.07-.83-.22-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13,.63-.27,1.47-.42,2.49-.47Z"/>
+  <path id="asv" data-name="path25862" d="M584.8,394.75c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.45,.41,2.07,.27,.6,.68,1.08,1.24,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05s-.68-1.08-1.23-1.42c-.55-.36-1.24-.54-2.06-.54Zm-.11,1.22c.74,0,1.29,.25,1.66,.76,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.27,2.81-.75,0-1.32-.25-1.69-.76-.38-.51-.56-1.19-.56-2.05s.18-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75Z"/>
+  <path id="asw" data-name="path25860" d="M571.98,394.75c-.86,0-1.74,.25-2.65,.76v-.73l-1.52,.17v7.61h1.52v-5.99c.33-.15,.68-.27,1.04-.37,.36-.1,.71-.16,1.04-.16s.57,.05,.74,.16,.3,.28,.37,.52c.08,.23,.12,.56,.12,.99v4.85h1.52v-5.46c0-.12-.01-.29-.04-.52,.33-.16,.68-.29,1.06-.38,.38-.1,.74-.16,1.08-.16,.32,0,.57,.05,.74,.16s.31,.28,.39,.52c.08,.23,.12,.56,.12,.99v4.85h1.52v-5.46c0-.83-.2-1.44-.6-1.81s-.94-.55-1.61-.55c-.52,0-1.04,.08-1.59,.24-.53,.16-1,.36-1.43,.61-.35-.57-.96-.85-1.83-.85h0Z"/>
+  <path id="asx" data-name="path25858" d="M562.72,394.75c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33s-1.38,.51-1.83,.94c-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.07-.83-.22-.18-.15-.27-.38-.27-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="asy" data-name="path25856" d="M553.5,391.1c-.67,0-1.3,.11-1.89,.33-.59,.22-1.06,.56-1.43,1.01-.35,.44-.53,.99-.53,1.63,0,.61,.14,1.12,.42,1.53,.28,.41,.65,.74,1.11,.99,.46,.24,1.06,.49,1.8,.75l.3,.1c.67,.23,1.18,.45,1.53,.64,.36,.19,.62,.39,.78,.62,.16,.23,.25,.53,.25,.89,0,.61-.22,1.07-.67,1.37-.44,.3-1.08,.45-1.92,.45-.53,0-1.09-.09-1.69-.26-.59-.19-1.12-.46-1.59-.82l-.78,1.15c.53,.41,1.14,.72,1.83,.95,.69,.22,1.45,.33,2.28,.33,.87,0,1.62-.12,2.26-.37,.63-.25,1.12-.62,1.46-1.09,.34-.49,.51-1.08,.51-1.79s-.17-1.28-.51-1.72c-.34-.45-.75-.79-1.22-1.02-.47-.24-1.1-.5-1.89-.77l-.3-.1c-.6-.21-1.07-.41-1.41-.59-.33-.19-.57-.38-.71-.59-.13-.21-.19-.45-.19-.73,0-.53,.21-.93,.62-1.18s.93-.38,1.55-.38,1.14,.08,1.62,.23c.48,.14,.98,.37,1.5,.69l.74-1.15c-.6-.39-1.22-.68-1.85-.85-.62-.17-1.29-.26-1.99-.26h0Z"/>
+  <path id="asz" data-name="path25808" d="M367.81,354.93c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.57,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.08,.35,1.32,.55,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.26,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="ata" data-name="path25806" d="M351.67,354.93c-.89,0-1.83,.25-2.82,.76v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="atb" data-name="path25804" d="M342.23,354.93c-1.23,0-2.42,.38-3.55,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.77,.13-2.54,.33s-1.38,.51-1.83,.94c-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.26v1.81c-.76,.46-1.54,.69-2.34,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="atc" data-name="path25802" d="M330.03,354.93c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.07,.35,1.32,.55,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.54,.78,.55,.16,1.17,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.93-.42-1.6-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1.01-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.26,1.25,.52l.62-1.06c-.51-.29-1.01-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="atd" data-name="path25800" d="M323.36,351.49v11.26h1.62v-11.26h-1.62Z"/>
+  <path id="ate" data-name="path25798" d="M362.98,350.62l-1.52,.17v4.36c-.61-.15-1.17-.23-1.68-.23-.76,0-1.44,.17-2.04,.5-.6,.32-1.08,.81-1.43,1.44-.34,.64-.51,1.39-.51,2.28,0,.78,.12,1.45,.37,2.03,.26,.57,.63,1.01,1.11,1.32,.48,.3,1.06,.45,1.75,.45,.38,0,.78-.07,1.22-.21,.44-.13,.86-.31,1.29-.55l.07,.55h1.38v-12.13Zm-3.07,5.49c.51,0,1.02,.09,1.55,.26v4.72c-.66,.38-1.33,.58-2.01,.58-.65,0-1.15-.21-1.5-.63s-.53-1.06-.53-1.93c0-.67,.11-1.23,.32-1.68,.22-.45,.52-.78,.88-.99,.38-.22,.8-.33,1.29-.33h0Z"/>
+  <path id="atf" data-name="path25796" d="M336.61,350.62l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="atg" data-name="path25748" d="M374.84,334.08c-.89,0-1.83,.25-2.82,.76v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="ath" data-name="path25746" d="M364.95,334.08c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.46,.41,2.07,.27,.6,.68,1.08,1.24,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05-.27-.6-.68-1.08-1.23-1.42-.55-.36-1.24-.54-2.06-.54h0Zm-.11,1.22c.74,0,1.29,.25,1.66,.76,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.27,2.81-.75,0-1.32-.25-1.69-.76-.38-.51-.56-1.19-.56-2.05s.18-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75Z"/>
+  <path id="ati" data-name="path25744" d="M352.13,334.08c-.86,0-1.74,.25-2.65,.76v-.73l-1.52,.17v7.61h1.52v-5.99c.33-.15,.68-.27,1.04-.37,.36-.1,.71-.16,1.04-.16s.57,.05,.74,.16c.18,.1,.3,.28,.37,.52,.08,.23,.12,.56,.12,.99v4.85h1.52v-5.46c0-.12-.01-.29-.04-.52,.33-.16,.68-.29,1.06-.38,.38-.1,.74-.16,1.08-.16,.32,0,.57,.05,.74,.16s.31,.28,.39,.52c.08,.23,.12,.56,.12,.99v4.85h1.52v-5.46c0-.83-.2-1.44-.6-1.81-.4-.37-.94-.55-1.61-.55-.52,0-1.04,.08-1.59,.24-.53,.16-1,.36-1.43,.61-.35-.57-.96-.85-1.83-.85h0Z"/>
+  <path id="atj" data-name="path25742" d="M342.41,334.08c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.46,.41,2.07,.27,.6,.68,1.08,1.23,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05-.27-.6-.68-1.08-1.23-1.42-.55-.36-1.24-.54-2.06-.54h0Zm-.11,1.22c.74,0,1.29,.25,1.66,.76,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.27,2.81-.75,0-1.32-.25-1.69-.76-.38-.51-.56-1.19-.56-2.05s.17-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75h0Z"/>
+  <path id="atk" data-name="path25740" d="M329.48,334.08c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.46,.41,2.07,.27,.6,.68,1.08,1.23,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05-.27-.6-.68-1.08-1.23-1.42-.55-.36-1.24-.54-2.06-.54h0Zm-.11,1.22c.74,0,1.29,.25,1.66,.76,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.28,2.81-.75,0-1.32-.25-1.69-.76-.38-.51-.56-1.19-.56-2.05s.17-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75Z"/>
+  <path id="atl" data-name="path25732" d="M533.1,331.85v.1l3.16,7.5h1.39l3.09-7.5v-.1h-1.59l-1.76,4.9c-.13,.36-.25,.74-.37,1.13l-.11-.33c-.14-.42-.23-.68-.28-.8l-1.87-4.9h-1.66Z"/>
+  <path id="atm" data-name="path25726" d="M555.62,331.68l-1.52,.17v5.4c0,.81,.22,1.42,.67,1.82,.46,.39,1.05,.59,1.76,.59,.93,0,1.85-.26,2.75-.78l.09,.57h1.36v-7.78l-1.52,.17v5.87c-.85,.43-1.55,.64-2.12,.64-.38,0-.67-.04-.88-.14-.21-.1-.36-.27-.46-.49-.09-.23-.14-.54-.14-.92v-5.14Z"/>
+  <path id="atn" data-name="path25724" d="M526.59,331.68l-1.52,.17v5.4c0,.81,.22,1.42,.67,1.82,.46,.39,1.05,.59,1.76,.59,.93,0,1.85-.26,2.75-.78l.09,.57h1.36v-7.78l-1.52,.17v5.87c-.85,.43-1.55,.64-2.12,.64-.38,0-.67-.04-.88-.14-.21-.1-.36-.27-.46-.49-.09-.23-.14-.54-.14-.92v-5.14Z"/>
+  <path id="ato" data-name="path25722" d="M545.11,331.64c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61Zm1.2,4.26v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.27-.38-.27-.68,0-.49,.32-.86,.95-1.13,.63-.27,1.47-.42,2.49-.47Z"/>
+  <path id="atp" data-name="path25718" d="M320.03,330.43c-.67,0-1.3,.11-1.89,.33-.59,.22-1.07,.56-1.43,1.01-.35,.44-.53,.99-.53,1.63,0,.61,.14,1.12,.42,1.53,.28,.41,.65,.74,1.11,.99,.46,.24,1.06,.49,1.8,.75l.3,.1c.67,.23,1.18,.45,1.54,.64,.36,.19,.62,.39,.78,.62,.16,.23,.25,.53,.25,.89,0,.61-.22,1.07-.67,1.37-.44,.3-1.08,.45-1.92,.45-.53,0-1.09-.09-1.69-.26-.59-.19-1.12-.46-1.59-.82l-.78,1.15c.53,.41,1.14,.72,1.83,.95,.69,.22,1.45,.33,2.27,.33,.87,0,1.62-.12,2.26-.36,.63-.25,1.12-.62,1.46-1.1,.34-.49,.51-1.08,.51-1.79s-.17-1.28-.51-1.72c-.34-.45-.75-.79-1.22-1.02-.47-.24-1.1-.5-1.89-.77l-.3-.1c-.6-.21-1.07-.41-1.41-.59-.33-.19-.57-.38-.71-.59-.13-.21-.19-.45-.19-.73,0-.53,.2-.93,.62-1.18s.93-.38,1.55-.38,1.14,.08,1.62,.23c.48,.14,.98,.37,1.5,.69l.74-1.15c-.6-.39-1.21-.68-1.85-.85-.62-.17-1.29-.26-1.99-.26h0Z"/>
+  <path id="atq" data-name="path25716" d="M336.55,329.77l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="atr" data-name="path25714" d="M515.66,328.21v1.39h3.97v9.87h1.62v-9.87h3.95v-1.39h-9.54Z"/>
+  <path id="ats" data-name="path25712" d="M551.73,327.34l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="att" data-name="path25710" d="M502.67,297.26l-1.52,.18v7.61h1.52v-7.78Z"/>
+  <path id="atu" data-name="path25708" d="M475.3,297.26l-1.52,.18v7.61h1.52v-7.78Z"/>
+  <path id="atv" data-name="path25706" d="M464.97,297.26l-1.52,.18v7.61h1.52v-7.78Z"/>
+  <path id="atw" data-name="path25704" d="M489.96,297.23c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.37v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.07-.83-.22-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="atx" data-name="path25702" d="M471.21,297.23c-.44,0-.85,.1-1.23,.3-.39,.19-.73,.46-1.02,.83v-1.1l-1.52,.16v7.63h1.52v-5.18c.29-.45,.6-.76,.92-.92s.66-.24,1.04-.24c.33,0,.69,.07,1.09,.21l.28-1.55c-.19-.05-.37-.08-.53-.1s-.35-.03-.55-.03h0Z"/>
+  <path id="aty" data-name="path25700" d="M496.87,295.47l-1.52,.24v1.72h-1.55v1.18h1.55v4.17c0,.82,.21,1.44,.63,1.86,.42,.41,1,.61,1.73,.61,.68,0,1.33-.16,1.94-.49l-.42-1.06c-.24,.1-.45,.18-.65,.23-.2,.05-.4,.07-.62,.07-.73,0-1.09-.49-1.09-1.46v-3.93h2.45l.16-1.18h-2.61v-1.96Z"/>
+  <path id="atz" data-name="path25698" d="M453.22,293.79v11.26h1.62v-5.75l5.24,5.75h1.96v-.1l-5.29-5.75,5.08-5.3v-.1h-1.85l-5.13,5.37v-5.37h-1.62Z"/>
+  <path id="aua" data-name="path25696" d="M501.9,293.75c-.19,0-.37,.05-.53,.16-.16,.09-.3,.22-.4,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.4,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.04,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.34,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="aub" data-name="path25694" d="M474.53,293.75c-.19,0-.37,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.04,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.34,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="auc" data-name="path25692" d="M464.19,293.75c-.19,0-.37,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.04,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.34,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="aud" data-name="path25678" d="M479.29,292.92l-1.52,.17v11.66c1.06,.34,1.98,.5,2.77,.5,.72,0,1.41-.14,2.08-.42,.67-.28,1.22-.73,1.66-1.36,.45-.64,.67-1.46,.67-2.47,0-.72-.11-1.36-.33-1.93-.22-.58-.57-1.03-1.02-1.35-.46-.34-1.03-.5-1.71-.5-.89,0-1.76,.23-2.59,.68v-4.99Zm2.17,5.59c.63,0,1.11,.22,1.41,.64s.46,1.03,.46,1.82c0,1.09-.27,1.87-.79,2.35-.53,.46-1.21,.69-2.05,.69-.35,0-.75-.05-1.2-.14v-4.86c.75-.34,1.47-.5,2.17-.5h0Z"/>
+  <path id="aue" data-name="path25670" d="M299.07,223.55c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.08,.35,1.32,.55,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.1-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="auf" data-name="path25668" d="M282.93,223.55c-.89,0-1.83,.25-2.82,.76v-.73l-1.52,.18v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="aug" data-name="path25666" d="M273.49,223.55c-1.23,0-2.42,.38-3.55,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.77,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.54,.69-2.34,.69-.36,0-.64-.07-.83-.22-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="auh" data-name="path25664" d="M261.29,223.55c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.07,.35,1.32,.55,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.54,.78,.55,.16,1.17,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.93-.42-1.6-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1.01-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1.01-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="aui" data-name="path25662" d="M96.18,222.97l-1.52,.17v5.4c0,.81,.22,1.42,.67,1.82,.46,.39,1.05,.59,1.76,.59,.93,0,1.85-.26,2.75-.78l.09,.57h1.36v-7.78l-1.52,.17v5.87c-.85,.43-1.55,.64-2.12,.64-.38,0-.67-.05-.88-.14-.21-.1-.36-.27-.46-.49-.09-.23-.14-.54-.14-.92v-5.14Z"/>
+  <path id="auj" data-name="path25660" d="M89.65,222.93c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.26v1.8c-.76,.46-1.55,.7-2.35,.7-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.47-.42,2.49-.47Z"/>
+  <path id="auk" data-name="path25658" d="M77.42,222.93c-1.23,0-2.42,.38-3.55,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.07,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.1,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.37v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.26v1.8c-.76,.46-1.55,.7-2.35,.7-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="aul" data-name="path25656" d="M447.91,222.89c-.55,0-1.05,.09-1.5,.28-.44,.19-.78,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.03,.56,1.37,.39,.34,1,.61,1.82,.82l.55,.14c.63,.16,1.07,.35,1.32,.56,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.09-.8-.28-1.1-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.58,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="aum" data-name="path25654" d="M431.78,222.89c-.89,0-1.83,.26-2.82,.77v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="aun" data-name="path25652" d="M422.34,222.89c-1.23,0-2.42,.38-3.55,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.77,.13-2.54,.33-.76,.2-1.38,.51-1.84,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.26v1.81c-.76,.46-1.54,.69-2.34,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13,.63-.27,1.46-.42,2.49-.47Z"/>
+  <path id="auo" data-name="path25650" d="M410.14,222.89c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.03,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.08,.35,1.32,.56,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.83-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.09-.8-.28-1.1-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.58,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1.01-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1.01-.49-1.5-.61-.48-.13-.99-.19-1.52-.19Z"/>
+  <path id="aup" data-name="path25648" d="M254.62,220.11v11.26h1.62v-11.26h-1.62Z"/>
+  <path id="auq" data-name="path25646" d="M64.79,219.49v11.26h1.62v-4.15h2.05c.95,0,1.75-.16,2.4-.49,.66-.34,1.15-.78,1.46-1.34,.33-.56,.49-1.18,.49-1.86s-.16-1.28-.48-1.79c-.32-.52-.79-.92-1.43-1.2-.63-.29-1.4-.44-2.31-.44h-3.81Zm1.62,1.36h2.15c.85,0,1.48,.18,1.9,.55,.44,.36,.65,.89,.65,1.58s-.24,1.28-.71,1.67c-.46,.39-1.15,.59-2.08,.59h-1.92v-4.39Z"/>
+  <path id="aur" data-name="path25644" d="M403.47,219.45v11.26h1.62v-11.26h-1.62Z"/>
+  <path id="aus" data-name="path25642" d="M294.24,219.24l-1.52,.17v4.36c-.61-.15-1.17-.23-1.67-.23-.76,0-1.45,.17-2.05,.5-.6,.32-1.08,.8-1.43,1.44-.34,.64-.51,1.4-.51,2.28,0,.78,.12,1.45,.37,2.03,.26,.57,.63,1.01,1.11,1.32,.48,.3,1.06,.45,1.75,.45,.38,0,.78-.07,1.22-.21,.44-.13,.86-.31,1.29-.56l.07,.56h1.38v-12.13Zm-3.07,5.49c.51,0,1.02,.09,1.55,.26v4.73c-.66,.38-1.33,.58-2.01,.58-.65,0-1.15-.21-1.5-.63s-.53-1.06-.53-1.93c0-.67,.11-1.23,.32-1.68,.22-.45,.52-.78,.88-.99,.38-.22,.8-.33,1.29-.33h0Z"/>
+  <path id="aut" data-name="path25640" d="M267.87,219.24l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="auu" data-name="path25638" d="M84.03,218.63l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="auv" data-name="path25636" d="M443.08,218.58l-1.52,.18v4.36c-.61-.15-1.17-.23-1.68-.23-.76,0-1.45,.17-2.05,.5-.6,.32-1.08,.81-1.43,1.44-.34,.64-.51,1.39-.51,2.28,0,.78,.12,1.45,.37,2.03,.26,.57,.63,1.01,1.11,1.32,.48,.3,1.06,.45,1.75,.45,.38,0,.78-.07,1.22-.21,.44-.13,.86-.31,1.29-.55l.07,.55h1.37v-12.13Zm-3.07,5.49c.51,0,1.02,.09,1.55,.26v4.73c-.66,.38-1.33,.57-2.01,.57-.65,0-1.15-.21-1.5-.63s-.53-1.06-.53-1.93c0-.67,.1-1.23,.32-1.68,.22-.45,.52-.78,.88-.99,.38-.22,.81-.33,1.29-.33h0Z"/>
+  <path id="auw" data-name="path25634" d="M416.72,218.58l-1.52,.18v11.95h1.52v-12.13Z"/>
+  <path id="aux" data-name="path25632" d="M288.8,204.47l-1.52,.17v7.61h1.52v-7.78Z"/>
+  <path id="auy" data-name="path25630" d="M303.48,204.44c-.81,0-1.5,.19-2.06,.58-.55,.37-.97,.87-1.25,1.49s-.42,1.32-.42,2.08c0,1.34,.33,2.33,1,2.95,.68,.61,1.59,.92,2.72,.92,1.06,0,2.07-.3,3.03-.92l-.58-1.06c-.42,.24-.81,.42-1.16,.54-.34,.12-.75,.17-1.22,.17-.66,0-1.2-.2-1.62-.59-.41-.39-.62-1.02-.63-1.89h5.38l.04-1.11c0-.61-.12-1.16-.37-1.63-.25-.47-.61-.85-1.09-1.11-.48-.28-1.06-.42-1.75-.42h0Zm0,1.17c.55,0,.98,.16,1.27,.49,.31,.32,.46,.81,.46,1.46v.07h-3.84c.11-.63,.33-1.12,.67-1.48,.35-.36,.83-.54,1.45-.54h0Z"/>
+  <path id="auz" data-name="path25628" d="M295.61,204.44c-.89,0-1.83,.26-2.82,.77v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="ava" data-name="path25626" d="M277.74,204.44c-.76,0-1.45,.14-2.05,.42-.6,.27-1.08,.7-1.43,1.3-.35,.59-.53,1.35-.53,2.28,0,.76,.14,1.45,.41,2.07,.27,.6,.68,1.08,1.23,1.44,.55,.35,1.24,.52,2.06,.52,.76,0,1.45-.13,2.05-.4,.6-.28,1.08-.71,1.43-1.3,.35-.6,.53-1.37,.53-2.31,0-.76-.14-1.45-.41-2.05-.27-.6-.68-1.08-1.23-1.43-.55-.36-1.24-.54-2.06-.54Zm-.11,1.22c.74,0,1.29,.26,1.66,.77,.38,.5,.56,1.17,.56,2.02,0,1.88-.76,2.81-2.27,2.81-.75,0-1.32-.25-1.69-.76-.38-.51-.56-1.19-.56-2.05s.17-1.55,.53-2.03c.36-.5,.96-.75,1.78-.75Z"/>
+  <path id="avb" data-name="path25624" d="M272.14,204.44c-.44,0-.85,.1-1.23,.3-.39,.19-.73,.46-1.02,.83v-1.09l-1.52,.16v7.62h1.52v-5.18c.29-.45,.6-.76,.92-.92,.32-.16,.66-.24,1.04-.24,.33,0,.69,.07,1.09,.21l.28-1.55c-.19-.05-.37-.08-.53-.1-.16-.02-.35-.04-.55-.04h0Z"/>
+  <path id="avc" data-name="path25622" d="M263.27,204.44c-1.23,0-2.42,.38-3.55,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.07,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.1,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.37v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61Zm1.2,4.26v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47h0Z"/>
+  <path id="avd" data-name="path25620" d="M445.95,203.78c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.07-.83-.22-.18-.15-.27-.38-.27-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47h0Z"/>
+  <path id="ave" data-name="path25618" d="M428.68,203.78c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.08,.35,1.32,.55,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.82,.25-.36,.37-.77,.37-1.23,0-.43-.1-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.26,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="avf" data-name="path25616" d="M423.74,203.78c-.44,0-.85,.1-1.24,.3-.39,.19-.73,.46-1.02,.83v-1.09l-1.52,.16v7.63h1.52v-5.18c.29-.45,.6-.76,.92-.92,.32-.16,.66-.24,1.04-.24,.33,0,.69,.07,1.09,.21l.28-1.54c-.19-.05-.37-.08-.53-.1-.16-.02-.35-.04-.55-.04Z"/>
+  <path id="avg" data-name="path25614" d="M414.87,203.78c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.07-.83-.22-.18-.15-.27-.38-.27-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="avh" data-name="path25612" d="M288.03,200.96c-.19,0-.37,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.05,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.34,.16-.52,0-.2-.05-.37-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <path id="avi" data-name="path25610" d="M254.8,200.79c-.94,0-1.8,.2-2.59,.61-.79,.39-1.43,1.03-1.92,1.91-.48,.87-.72,1.98-.72,3.35,0,1.18,.19,2.21,.56,3.08,.39,.87,.98,1.54,1.76,2.01,.79,.47,1.77,.71,2.95,.71,.72,0,1.37-.09,1.96-.28,.6-.19,1.21-.46,1.83-.82l-.65-1.16c-.48,.28-.96,.49-1.45,.64-.48,.15-1.02,.23-1.62,.23-1.19,0-2.09-.4-2.7-1.2-.61-.8-.92-1.9-.92-3.3s.29-2.43,.86-3.21c.59-.79,1.49-1.18,2.72-1.18,1.05,0,2.03,.28,2.95,.85l.71-1.21c-.55-.34-1.13-.59-1.75-.77-.6-.17-1.26-.26-1.98-.26h0Z"/>
+  <path id="avj" data-name="path25608" d="M397.43,200.34v11.26h1.55v-8.63c.08,.2,.19,.43,.32,.71,.14,.27,.29,.55,.44,.83l2.7,5.26h1.57l2.75-5.26c.28-.54,.51-1.07,.69-1.57v8.65h1.59v-11.26h-1.8l-2.59,4.97c-.34,.64-.63,1.2-.86,1.7-.22,.5-.4,.94-.53,1.34-.24-.68-.7-1.7-1.39-3.04l-2.58-4.97h-1.85Z"/>
+  <path id="avk" data-name="path25606" d="M284.82,200.13l-1.52,.18v11.95h1.52v-12.13Z"/>
+  <path id="avl" data-name="path25604" d="M456.55,199.47l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="avm" data-name="path25602" d="M452.56,199.47l-1.52,.17v11.95h1.52v-12.13Z"/>
+  <path id="avn" data-name="path25600" d="M435.26,199.47l-1.52,.17v11.95h1.52v-5.99c.34-.16,.7-.29,1.09-.38,.4-.09,.78-.14,1.13-.14s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.46c0-.83-.21-1.44-.63-1.81s-1-.55-1.73-.55c-.89,0-1.82,.25-2.79,.75v-5.05Z"/>
+  <path id="avo" data-name="path25572" d="M201.96,159.27c-.55,0-1.05,.09-1.5,.28-.44,.19-.78,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.56,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.07,.35,1.32,.56,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.81,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.93-.42-1.6-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1.01-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="avp" data-name="path25570" d="M185.82,159.27c-.89,0-1.83,.25-2.82,.76v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.41-2.36-2.41Z"/>
+  <path id="avq" data-name="path25568" d="M176.38,159.27c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.36,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.95-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.37v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.25v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="avr" data-name="path25566" d="M164.18,159.27c-.55,0-1.05,.09-1.5,.28-.44,.19-.77,.45-1.02,.78-.25,.32-.37,.7-.37,1.13,0,.57,.19,1.02,.57,1.37,.39,.34,.99,.61,1.82,.82l.55,.14c.63,.16,1.07,.35,1.32,.56,.26,.2,.39,.43,.39,.71,0,.35-.14,.61-.42,.8-.28,.17-.69,.26-1.22,.26-.93,0-1.82-.3-2.68-.9l-.67,1.06c.47,.35,.98,.61,1.53,.78,.55,.16,1.18,.24,1.87,.24s1.24-.1,1.71-.3c.47-.2,.82-.47,1.06-.81,.25-.36,.37-.77,.37-1.23,0-.43-.09-.79-.28-1.09-.19-.31-.49-.58-.9-.8-.4-.22-.94-.42-1.61-.59l-.55-.14c-.48-.13-.82-.25-1.02-.38-.19-.14-.28-.33-.28-.57,0-.28,.12-.5,.35-.66,.25-.17,.58-.26,1-.26,.4,0,.78,.05,1.13,.16,.35,.09,.77,.27,1.25,.52l.62-1.06c-.51-.29-1-.49-1.5-.61-.48-.13-.99-.19-1.52-.19h0Z"/>
+  <path id="avs" data-name="path25564" d="M157.51,155.83v11.26h1.62v-11.26h-1.62Z"/>
+  <path id="avt" data-name="path25562" d="M197.12,154.96l-1.52,.18v4.36c-.61-.15-1.17-.22-1.68-.22-.76,0-1.45,.17-2.05,.5-.6,.32-1.08,.81-1.43,1.44-.34,.64-.51,1.39-.51,2.28,0,.78,.12,1.45,.37,2.03,.26,.57,.63,1.01,1.11,1.32,.48,.3,1.06,.45,1.75,.45,.38,0,.78-.07,1.22-.21,.44-.13,.86-.31,1.29-.55l.07,.55h1.38v-12.13Zm-3.07,5.49c.51,0,1.02,.09,1.55,.26v4.73c-.66,.38-1.33,.57-2.01,.57-.65,0-1.15-.21-1.5-.63-.35-.42-.53-1.06-.53-1.93,0-.67,.1-1.23,.32-1.68,.22-.45,.52-.78,.88-.99,.38-.22,.81-.33,1.29-.33h0Z"/>
+  <path id="avu" data-name="path25560" d="M170.76,154.96l-1.52,.18v11.95h1.52v-12.13Z"/>
+  <path id="avv" data-name="path25558" d="M183.44,140.19l-1.52,.17v7.61h1.52v-7.78Z"/>
+  <path id="avw" data-name="path25556" d="M206.4,140.16c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.38v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.26v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.27-.38-.27-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="avx" data-name="path25554" d="M198.5,140.16c-.89,0-1.83,.26-2.82,.77v-.73l-1.52,.17v7.61h1.52v-5.98c.35-.16,.73-.29,1.13-.38,.4-.1,.78-.16,1.13-.16s.63,.05,.83,.16c.21,.1,.36,.28,.44,.52,.09,.23,.14,.56,.14,.99v4.85h1.52v-5.4c0-1.61-.79-2.42-2.36-2.42h0Z"/>
+  <path id="avy" data-name="path25552" d="M189.06,140.16c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,1.99-.29,2.8-.87l.09,.66h1.37v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.12-.61-2.03-.61h0Zm1.2,4.26v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="avz" data-name="path25550" d="M179.35,140.16c-.44,0-.85,.1-1.23,.3-.39,.19-.73,.46-1.02,.83v-1.09l-1.52,.16v7.63h1.52v-5.18c.29-.45,.6-.76,.92-.92,.32-.16,.66-.24,1.04-.24,.33,0,.69,.07,1.09,.21l.28-1.54c-.19-.05-.37-.08-.53-.1-.16-.02-.35-.04-.55-.04Z"/>
+  <path id="awa" data-name="path25548" d="M170.47,140.16c-1.23,0-2.42,.38-3.54,1.15l.67,1.04c.93-.6,1.82-.9,2.68-.9,.51,0,.86,.12,1.08,.37,.21,.23,.32,.61,.32,1.13v.38c-.93,.02-1.78,.13-2.54,.33-.76,.2-1.38,.51-1.83,.94-.46,.42-.69,.94-.69,1.58,0,.39,.09,.75,.28,1.06,.2,.3,.48,.54,.83,.71,.35,.16,.75,.24,1.2,.24,1.06,0,2-.29,2.81-.87l.09,.66h1.37v-5.3c0-.87-.23-1.51-.69-1.91-.45-.41-1.13-.61-2.03-.61Zm1.2,4.26v1.81c-.76,.46-1.55,.69-2.35,.69-.36,0-.64-.08-.83-.23-.18-.15-.26-.38-.26-.68,0-.49,.32-.86,.95-1.13s1.46-.42,2.49-.47Z"/>
+  <path id="awb" data-name="path25546" d="M153.03,136.72v11.26h1.55v-8.63c.08,.2,.19,.43,.32,.71,.14,.27,.29,.55,.44,.83l2.7,5.26h1.57l2.75-5.26c.28-.54,.51-1.07,.69-1.57v8.65h1.59v-11.26h-1.8l-2.59,4.97c-.34,.64-.63,1.2-.86,1.7-.22,.5-.4,.94-.53,1.34-.24-.68-.7-1.7-1.39-3.04l-2.57-4.97h-1.85Z"/>
+  <path id="awc" data-name="path25544" d="M182.66,136.68c-.19,0-.37,.05-.53,.16-.16,.09-.3,.22-.41,.38-.09,.16-.14,.34-.14,.54,0,.19,.05,.36,.14,.52,.11,.16,.24,.3,.41,.4,.16,.09,.34,.14,.53,.14,.2,0,.38-.05,.55-.14,.16-.1,.29-.24,.39-.4,.11-.16,.16-.34,.16-.52,0-.2-.05-.38-.16-.54-.09-.16-.22-.29-.39-.38-.16-.1-.35-.16-.55-.16Z"/>
+  <rect class="bdy" x="754.56" y="12.89" width="254.26" height="692.59" rx="19.95" ry="19.95"/>
+  <ellipse class="awm" cx="537.69" cy="398.75" rx="7.17" ry="7.05"/>
+  <ellipse class="awm" cx="628.36" cy="407.72" rx="7.17" ry="7.05"/>
+  <ellipse class="awm" cx="528.76" cy="493.1" rx="7.17" ry="7.05"/>
+  <ellipse class="awm" cx="507.22" cy="336.27" rx="7.17" ry="7.05"/>
+  <ellipse class="awm" cx="379.97" cy="425.71" rx="7.17" ry="7.05"/>
+  <ellipse class="awm" cx="314.16" cy="350.62" rx="7.17" ry="7.05"/>
+  <polyline class="awe" points="537.69 398.75 599.07 302.74 782.67 302.74"/>
+  <circle class="awi" cx="782.67" cy="302.74" r="10.81"/>
+  <text class="awj" transform="translate(811.99 309.87)"><tspan x="0" y="0">Samoa</tspan></text>
+  <polyline class="awe" points="628.36 408.01 667.03 360 782.67 360"/>
+  <circle class="awi" cx="782.67" cy="361.86" r="10.81"/>
+  <text class="awj" transform="translate(812.62 367.09)"><tspan x="0" y="0">Cook Islands</tspan></text>
+  <polyline class="awe" points="507.64 335.75 569.02 250.43 782.67 249.57"/>
+  <circle class="awi" cx="782.67" cy="248.76" r="10.81"/>
+  <line class="awl" x1="528.76" y1="493.1" x2="782.67" y2="493.1"/>
+  <circle class="awi" cx="782.67" cy="493.24" r="10.81"/>
+  <circle class="awi" cx="782.67" cy="427.28" r="10.81"/>
+  <polyline class="awg" points="379.97 425.71 636.38 464 782.67 427.28"/>
+  <polyline class="awg" points="314.16 350.62 552.21 192.73 782.67 192.73"/>
+  <circle class="awi" cx="782.67" cy="192.73" r="10.81"/>
+  <text class="awj" transform="translate(813.41 433.1)"><tspan class="awp" x="0" y="0">V</tspan><tspan x="11.81" y="0">anuatu</tspan></text>
+  <text class="awj" transform="translate(812.62 504.05)"><tspan class="awn" x="0" y="0">T</tspan><tspan x="9.67" y="0">onga</tspan></text>
+  <text class="awj" transform="translate(812.62 252.86)"><tspan class="awo" x="0" y="0">T</tspan><tspan x="10.98" y="0">u</tspan><tspan class="awh" x="21.44" y="0">v</tspan><tspan x="30.76" y="0">alu</tspan></text>
+  <text class="awj" transform="translate(812.62 199.47)"><tspan x="0" y="0">Solomon Islands</tspan></text>
+</svg>
